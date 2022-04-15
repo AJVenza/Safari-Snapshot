@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{cf9aa087-e6ec-4fbf-9df0-463c9ebfdcb9}">
+		<property name="assetPath">
+			<value>Safari_Snapshot_MasterS.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>169.25478458049886</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{2b730cfa-5a37-48e4-b814-fdd57569854e}</destination>
+		</relationship>
+	</object>
+</objects>
