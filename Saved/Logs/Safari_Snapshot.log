@@ -2324,3 +2324,415 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.04.15-22.03.15:336][ 21]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
 [2022.04.15-22.03.15:348][ 21]LogUObjectHash: Compacting FUObjectHashTables data took   6.27ms
 [2022.04.15-22.03.15:388][ 22]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2022.04.15-22.07.51:362][969]BlueprintLog: New page: Compile Quest
+[2022.04.15-22.07.51:570][969]LogUObjectHash: Compacting FUObjectHashTables data took   7.65ms
+[2022.04.15-22.07.52:658][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   8.04ms
+[2022.04.15-22.07.52:743][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2022.04.15-22.07.52:782][ 22]LogSavePackage: Moving '../../../../../../Users/Lyle/Documents/Unreal Projects/Safari_Snapshot/Saved/FirstPersonExampleMap16B28F6547AF154E1BB4CDA2AC326E88.tmp' to '../../../../../../Users/Lyle/Documents/Unreal Projects/Safari_Snapshot/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2022.04.15-22.07.52:799][ 22]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.114
+[2022.04.15-22.07.52:799][ 22]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lyle/QuestSystem/Quests/Quest" FILE="../../../../../../Users/Lyle/Documents/Unreal Projects/Safari_Snapshot/Content/Lyle/QuestSystem/Quests/Quest.uasset" SILENT=true
+[2022.04.15-22.07.52:875][ 22]LogSavePackage: Moving '../../../../../../Users/Lyle/Documents/Unreal Projects/Safari_Snapshot/Saved/Quest4D5EE56247CA920CF8C39D87C3126C10.tmp' to '../../../../../../Users/Lyle/Documents/Unreal Projects/Safari_Snapshot/Content/Lyle/QuestSystem/Quests/Quest.uasset'
+[2022.04.15-22.07.52:901][ 22]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.15-22.07.52:901][ 22]LogContentValidation: Display: Validating Blueprint /Game/Lyle/QuestSystem/Quests/Quest.Quest
+[2022.04.15-22.07.52:901][ 22]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2022.04.15-22.08.29:449][123]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Lyle/QuestSystem/QuestMacros.QuestMacros
+[2022.04.15-22.16.02:430][  9]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.04.15-22.17.24:865][736]LogEditorTransaction: Undo Move Node
+[2022.04.15-22.17.34:522][292]LogEditorTransaction: Undo Move Nodes
+[2022.04.15-22.17.39:683][677]LogEditorTransaction: Undo Move Node
+[2022.04.15-22.19.09:775][655]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Edit Comment Color entirely.
+[2022.04.15-22.19.09:791][655]LogSlate: Window 'Color Picker' being destroyed
+[2022.04.15-22.19.12:542][933]LogUObjectHash: Compacting FUObjectHashTables data took   9.74ms
+[2022.04.15-22.19.12:906][933]LogSavePackage: Moving '../../../../../../Users/Lyle/Documents/Unreal Projects/Safari_Snapshot/Saved/FirstPersonCharacter4908BCA34A0563D15B355BAA425EB453.tmp' to '../../../../../../Users/Lyle/Documents/Unreal Projects/Safari_Snapshot/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2022.04.15-22.19.12:911][933]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lyle/QuestSystem/QuestMacros" FILE="../../../../../../Users/Lyle/Documents/Unreal Projects/Safari_Snapshot/Content/Lyle/QuestSystem/QuestMacros.uasset" SILENT=true
+[2022.04.15-22.19.12:931][933]LogSavePackage: Moving '../../../../../../Users/Lyle/Documents/Unreal Projects/Safari_Snapshot/Saved/QuestMacrosCDCE6F0D44FD6E3C378BF0B43BE3AEC9.tmp' to '../../../../../../Users/Lyle/Documents/Unreal Projects/Safari_Snapshot/Content/Lyle/QuestSystem/QuestMacros.uasset'
+[2022.04.15-22.19.12:958][933]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.15-22.19.12:958][933]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2022.04.15-22.19.12:958][933]LogContentValidation: Display: Validating Blueprint /Game/Lyle/QuestSystem/QuestMacros.QuestMacros
+[2022.04.15-22.20.04:409][580]LogContentBrowser: Deferred new asset file creation: Quest_Child
+[2022.04.15-22.20.04:477][580]LogContentBrowser: Creating deferred item: Quest_Child
+[2022.04.15-22.20.08:677][695]LogContentBrowser: Attempting asset rename: Quest_Child -> Quest_002
+[2022.04.15-22.20.08:707][695]LogContentBrowser: End creating deferred item Quest_Child
+[2022.04.15-22.20.24:776][144]EditorErrors: New page: Actor attachment
+[2022.04.15-22.20.37:246][472]LogEditorViewport: Clicking on Actor (LMB): Item_Test_C (Item_Test)
+[2022.04.15-22.22.15:661][314]LogUObjectHash: Compacting FUObjectHashTables data took  15.62ms
+[2022.04.15-22.22.15:768][314]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2022.04.15-22.22.15:815][314]LogSavePackage: Moving '../../../../../../Users/Lyle/Documents/Unreal Projects/Safari_Snapshot/Saved/FirstPersonExampleMap7EBC79C34C67F1F0A24A13BD20B29935.tmp' to '../../../../../../Users/Lyle/Documents/Unreal Projects/Safari_Snapshot/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2022.04.15-22.22.15:835][314]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.145
+[2022.04.15-22.22.15:843][314]LogSavePackage: Moving '../../../../../../Users/Lyle/Documents/Unreal Projects/Safari_Snapshot/Saved/Quest_0022204824E453ECE38160762A87E676F4C.tmp' to '../../../../../../Users/Lyle/Documents/Unreal Projects/Safari_Snapshot/Content/Lyle/QuestSystem/Quests/Quest_002.uasset'
+[2022.04.15-22.22.15:879][314]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.15-22.22.15:879][314]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2022.04.15-22.22.15:879][314]LogContentValidation: Display: Validating Blueprint /Game/Lyle/QuestSystem/Quests/Quest_002.Quest_002
+[2022.04.15-22.22.16:244][327]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.15-22.22.16:310][327]LogFMOD: Default sample rate = 48000
+[2022.04.15-22.22.16:310][327]LogFMOD: System sample rate = 48000
+[2022.04.15-22.22.16:310][327]LogFMOD: Matching system sample rate 48000
+[2022.04.15-22.22.16:375][327]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.04.15-22.22.16:408][327]LogPlayLevel: [PlayLevel] Compiling FirstPersonCharacter before play...
+[2022.04.15-22.22.16:705][327]LogPlayLevel: [PlayLevel] Compiling QuestMacros before play...
+[2022.04.15-22.22.16:708][327]LogPlayLevel: [PlayLevel]   Compiling FirstPersonCharacter as a dependent...
+[2022.04.15-22.22.16:966][327]LogUObjectHash: Compacting FUObjectHashTables data took   8.50ms
+[2022.04.15-22.22.16:968][327]LogPlayLevel: PlayLevel: Blueprint regeneration took 592 ms (3 blueprints)
+[2022.04.15-22.22.16:968][327]PIE: New page: PIE session: FirstPersonExampleMap (Apr 15, 2022, 2:22:16 PM)
+[2022.04.15-22.22.16:968][327]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.04.15-22.22.16:986][327]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018599s)
+[2022.04.15-22.22.16:988][327]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.04.15-22.22.16:988][327]LogPlayLevel: PIE: World Init took: (0.001558s)
+[2022.04.15-22.22.16:988][327]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.020359s)
+[2022.04.15-22.22.17:050][327]LogUObjectHash: Compacting FUObjectHashTables data took   4.90ms
+[2022.04.15-22.22.17:052][327]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2022.04.15-22.22.17:052][327]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.15-22.22.17:052][327]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.15-22.22.17:052][327]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.15-22.22.17:052][327]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.15-22.22.17:052][327]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.15-22.22.17:052][327]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.15-22.22.17:052][327]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.15-22.22.17:052][327]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.15-22.22.17:053][327]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.04.15-22.22.17:053][327]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.04.15-22.22.17:053][327]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.04.15-22.22.17:053][327]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.15-22.22.17:055][327]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.15-22.22.17:055][327]LogAudioMixer: Display: 1: FrontRight
+[2022.04.15-22.22.17:071][327]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.04.15-22.22.17:071][327]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.15-22.22.17:071][327]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.15-22.22.17:072][327]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.15-22.22.17:072][327]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.15-22.22.17:072][327]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.15-22.22.17:072][327]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.15-22.22.17:074][327]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.15-22.22.17:074][327]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.15-22.22.17:074][327]LogInit: FAudioDevice initialized.
+[2022.04.15-22.22.17:074][327]LogAudio: Display: Audio Device (ID: 13) registered with world 'FirstPersonExampleMap'.
+[2022.04.15-22.22.17:088][327]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.04.15-22.22.17:095][327]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2022.04.15-18.22.17
+[2022.04.15-22.22.17:097][327]LogWorld: Bringing up level for play took: 0.007456
+[2022.04.15-22.22.17:098][327]LogOnline: OSS: Creating online subsystem instance for: :Context_37
+[2022.04.15-22.22.17:105][327]PIE: Server logged in
+[2022.04.15-22.22.17:106][327]PIE: Play in editor total start time 0.835 seconds.
+[2022.04.15-22.22.31:120][884]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2022.04.15-22.22.31:120][884]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockAlways
+[2022.04.15-22.22.31:120][884]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2022.04.15-22.22.33:895][992]LogViewport: Display: Viewport MouseLockMode Changed, LockAlways -> LockOnCapture
+[2022.04.15-22.22.33:895][992]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.04.15-22.22.40:376][266]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.04.15-22.22.40:376][266]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2022.04.15-22.22.40:376][266]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.04.15-22.22.42:213][349]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.04.15-22.22.42:213][349]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.04.15-22.23.00:743][100]LogCharacterMovement: FirstPersonCharacter_C_1 is stuck and failed to move! Velocity: X=509.18 Y=-317.39 Z=0.00 Location: X=-257.55 Y=135.31 Z=266.39 Normal: X=-0.96 Y=-0.22 Z=-0.18 PenetrationDepth:8.801 Actor:Zebra_2 Component:CharacterMesh0 BoneName:ZEBRA_-Spine1 (0 other events since notify)
+[2022.04.15-22.23.01:442][126]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2022.04.15-22.23.01:442][126]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockAlways
+[2022.04.15-22.23.01:442][126]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2022.04.15-22.23.02:773][174]LogViewport: Display: Viewport MouseLockMode Changed, LockAlways -> LockOnCapture
+[2022.04.15-22.23.02:773][174]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.04.15-22.23.04:899][264]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.04.15-22.23.04:899][264]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.04.15-22.23.05:247][278]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.04.15-22.23.05:247][278]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.04.15-22.23.07:051][356]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2022.04.15-22.23.07:051][356]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockAlways
+[2022.04.15-22.23.07:051][356]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2022.04.15-22.23.08:598][421]LogViewport: Display: Viewport MouseLockMode Changed, LockAlways -> LockOnCapture
+[2022.04.15-22.23.08:599][421]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.04.15-22.23.08:920][435]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.04.15-22.23.08:920][435]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.04.15-22.23.11:698][563]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.04.15-22.23.11:698][563]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.04.15-22.23.20:037][905]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2022.04.15-22.23.20:038][905]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockAlways
+[2022.04.15-22.23.20:038][905]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2022.04.15-22.23.20:134][909]LogCharacterMovement: Anim_Lion_2 is stuck and failed to move! Velocity: X=62.35 Y=62.16 Z=0.00 Location: X=-1166.53 Y=810.02 Z=260.41 Normal: X=-0.53 Y=0.85 Z=0.00 PenetrationDepth:6.735 Actor:EditorCube16_10 Component:StaticMeshComponent0 BoneName:None (0 other events since notify)
+[2022.04.15-22.23.22:044][985]LogViewport: Display: Viewport MouseLockMode Changed, LockAlways -> LockOnCapture
+[2022.04.15-22.23.22:044][985]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.04.15-22.23.26:821][161]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.15-22.23.26:821][161]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.04.15-22.23.26:822][161]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.04.15-22.23.26:824][161]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.15-22.23.26:838][161]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.15-22.23.26:876][161]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.15-22.23.26:970][161]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.15-22.23.26:971][161]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.15-22.23.26:973][161]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.15-22.23.27:022][161]LogUObjectHash: Compacting FUObjectHashTables data took   6.26ms
+[2022.04.15-22.23.27:102][162]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2022.04.15-22.23.46:020][709]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Lyle/QuestSystem/Quests/Quest_002.Quest_002
+[2022.04.15-22.24.17:373][615]LogUObjectHash: Compacting FUObjectHashTables data took   6.25ms
+[2022.04.15-22.24.17:503][615]LogUObjectHash: Compacting FUObjectHashTables data took   4.77ms
+[2022.04.15-22.24.17:550][615]LogSavePackage: Moving '../../../../../../Users/Lyle/Documents/Unreal Projects/Safari_Snapshot/Saved/FirstPersonExampleMap8D28471F49162C51EE06A7A559457BD4.tmp' to '../../../../../../Users/Lyle/Documents/Unreal Projects/Safari_Snapshot/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2022.04.15-22.24.17:571][615]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.151
+[2022.04.15-22.24.17:593][615]AssetCheck: New page: Asset Save: FirstPersonExampleMap
+[2022.04.15-22.24.17:593][615]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2022.04.15-22.24.20:997][710]BlueprintLog: New page: Compile Quest_002
+[2022.04.15-22.24.21:181][710]LogUObjectHash: Compacting FUObjectHashTables data took   6.85ms
+[2022.04.15-22.24.22:200][738]LogUObjectHash: Compacting FUObjectHashTables data took   9.20ms
+[2022.04.15-22.24.22:312][738]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2022.04.15-22.24.22:356][738]LogSavePackage: Moving '../../../../../../Users/Lyle/Documents/Unreal Projects/Safari_Snapshot/Saved/FirstPersonExampleMap574E70B74D4652F1A45EE3BEA46DA72C.tmp' to '../../../../../../Users/Lyle/Documents/Unreal Projects/Safari_Snapshot/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2022.04.15-22.24.22:375][738]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.140
+[2022.04.15-22.24.22:383][738]LogSavePackage: Moving '../../../../../../Users/Lyle/Documents/Unreal Projects/Safari_Snapshot/Saved/Quest_00223DC33D44D4970BEF2683C98796AB13D.tmp' to '../../../../../../Users/Lyle/Documents/Unreal Projects/Safari_Snapshot/Content/Lyle/QuestSystem/Quests/Quest_002.uasset'
+[2022.04.15-22.24.22:412][738]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.15-22.24.22:412][738]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2022.04.15-22.24.22:412][738]LogContentValidation: Display: Validating Blueprint /Game/Lyle/QuestSystem/Quests/Quest_002.Quest_002
+[2022.04.15-22.25.38:417][523]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/Lyle/QuestSystem/Objectives/ObjectiveData.ObjectiveData
+[2022.04.15-22.27.47:274][530]LogUObjectHash: Compacting FUObjectHashTables data took   9.85ms
+[2022.04.15-22.27.47:298][530]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lyle/QuestSystem/Quests/Quest" FILE="../../../../../../Users/Lyle/Documents/Unreal Projects/Safari_Snapshot/Content/Lyle/QuestSystem/Quests/Quest.uasset" SILENT=true
+[2022.04.15-22.27.47:381][530]LogSavePackage: Moving '../../../../../../Users/Lyle/Documents/Unreal Projects/Safari_Snapshot/Saved/Quest8405729D43D9B7F0D985EABDDD88BD85.tmp' to '../../../../../../Users/Lyle/Documents/Unreal Projects/Safari_Snapshot/Content/Lyle/QuestSystem/Quests/Quest.uasset'
+[2022.04.15-22.27.47:388][530]LogSavePackage: Moving '../../../../../../Users/Lyle/Documents/Unreal Projects/Safari_Snapshot/Saved/ObjectiveData094C78134B416EBD7F2887980AC200A0.tmp' to '../../../../../../Users/Lyle/Documents/Unreal Projects/Safari_Snapshot/Content/Lyle/QuestSystem/Objectives/ObjectiveData.uasset'
+[2022.04.15-22.27.47:412][530]LogSavePackage: Moving '../../../../../../Users/Lyle/Documents/Unreal Projects/Safari_Snapshot/Saved/Objectives_UI0E5CE2784770ED2FD273449B83EC7A2D.tmp' to '../../../../../../Users/Lyle/Documents/Unreal Projects/Safari_Snapshot/Content/Lyle/QuestSystem/QuestUI/Objectives_UI.uasset'
+[2022.04.15-22.27.47:428][530]LogSavePackage: Moving '../../../../../../Users/Lyle/Documents/Unreal Projects/Safari_Snapshot/Saved/SingleObjective_UI20A64F9D4EAB751170C772AFC33ADDE8.tmp' to '../../../../../../Users/Lyle/Documents/Unreal Projects/Safari_Snapshot/Content/Lyle/QuestSystem/QuestUI/SingleObjective_UI.uasset'
+[2022.04.15-22.27.47:464][530]LogSavePackage: Moving '../../../../../../Users/Lyle/Documents/Unreal Projects/Safari_Snapshot/Saved/Quest_UI1A42060843A6C258A11C32A02A76FDC8.tmp' to '../../../../../../Users/Lyle/Documents/Unreal Projects/Safari_Snapshot/Content/Lyle/QuestSystem/QuestUI/Quest_UI.uasset'
+[2022.04.15-22.27.47:516][530]LogSavePackage: Moving '../../../../../../Users/Lyle/Documents/Unreal Projects/Safari_Snapshot/Saved/QuestLog_UI56A2CC784F2DF1BF765FCDB26C60D5A8.tmp' to '../../../../../../Users/Lyle/Documents/Unreal Projects/Safari_Snapshot/Content/Lyle/QuestSystem/QuestUI/QuestLog_UI.uasset'
+[2022.04.15-22.27.47:569][530]LogSavePackage: Moving '../../../../../../Users/Lyle/Documents/Unreal Projects/Safari_Snapshot/Saved/QuestTurnIn_UI3E8268724E83935FDF85919EA6027151.tmp' to '../../../../../../Users/Lyle/Documents/Unreal Projects/Safari_Snapshot/Content/Lyle/QuestSystem/QuestUI/QuestTurnIn_UI.uasset'
+[2022.04.15-22.27.47:601][530]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.15-22.27.47:601][530]LogContentValidation: Display: Validating Blueprint /Game/Lyle/QuestSystem/Quests/Quest.Quest
+[2022.04.15-22.27.47:601][530]LogContentValidation: Display: Validating UserDefinedStruct /Game/Lyle/QuestSystem/Objectives/ObjectiveData.ObjectiveData
+[2022.04.15-22.27.47:601][530]LogContentValidation: Display: Validating WidgetBlueprint /Game/Lyle/QuestSystem/QuestUI/SingleObjective_UI.SingleObjective_UI
+[2022.04.15-22.27.47:606][530]LogContentValidation: Display: Validating WidgetBlueprint /Game/Lyle/QuestSystem/QuestUI/Objectives_UI.Objectives_UI
+[2022.04.15-22.27.47:607][530]LogContentValidation: Display: Validating WidgetBlueprint /Game/Lyle/QuestSystem/QuestUI/Quest_UI.Quest_UI
+[2022.04.15-22.27.47:607][530]LogContentValidation: Display: Validating WidgetBlueprint /Game/Lyle/QuestSystem/QuestUI/QuestLog_UI.QuestLog_UI
+[2022.04.15-22.27.47:608][530]LogContentValidation: Display: Validating WidgetBlueprint /Game/Lyle/QuestSystem/QuestUI/QuestTurnIn_UI.QuestTurnIn_UI
+[2022.04.15-22.29.41:432][849]LogUObjectHash: Compacting FUObjectHashTables data took   8.08ms
+[2022.04.15-22.29.41:535][849]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2022.04.15-22.29.41:575][849]LogSavePackage: Moving '../../../../../../Users/Lyle/Documents/Unreal Projects/Safari_Snapshot/Saved/FirstPersonExampleMap0CE881DB4DF91B0FB524C5BA19E98325.tmp' to '../../../../../../Users/Lyle/Documents/Unreal Projects/Safari_Snapshot/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2022.04.15-22.29.41:592][849]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.130
+[2022.04.15-22.29.41:592][849]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lyle/QuestSystem/Quests/Quest" FILE="../../../../../../Users/Lyle/Documents/Unreal Projects/Safari_Snapshot/Content/Lyle/QuestSystem/Quests/Quest.uasset" SILENT=true
+[2022.04.15-22.29.41:673][849]LogSavePackage: Moving '../../../../../../Users/Lyle/Documents/Unreal Projects/Safari_Snapshot/Saved/Quest3D808D7D4640D2B425185A80099E2321.tmp' to '../../../../../../Users/Lyle/Documents/Unreal Projects/Safari_Snapshot/Content/Lyle/QuestSystem/Quests/Quest.uasset'
+[2022.04.15-22.29.41:678][849]LogSavePackage: Moving '../../../../../../Users/Lyle/Documents/Unreal Projects/Safari_Snapshot/Saved/ObjectiveData3EAF0E4F4DDBC683806FA6B3DC4BD2E2.tmp' to '../../../../../../Users/Lyle/Documents/Unreal Projects/Safari_Snapshot/Content/Lyle/QuestSystem/Objectives/ObjectiveData.uasset'
+[2022.04.15-22.29.41:696][849]LogSavePackage: Moving '../../../../../../Users/Lyle/Documents/Unreal Projects/Safari_Snapshot/Saved/Objectives_UI92E2F0FA4C4DDEDBC0AFF3A8BD3FD4C2.tmp' to '../../../../../../Users/Lyle/Documents/Unreal Projects/Safari_Snapshot/Content/Lyle/QuestSystem/QuestUI/Objectives_UI.uasset'
+[2022.04.15-22.29.41:709][849]LogSavePackage: Moving '../../../../../../Users/Lyle/Documents/Unreal Projects/Safari_Snapshot/Saved/SingleObjective_UID1237D644F6525C27AE8BE87EBA1525E.tmp' to '../../../../../../Users/Lyle/Documents/Unreal Projects/Safari_Snapshot/Content/Lyle/QuestSystem/QuestUI/SingleObjective_UI.uasset'
+[2022.04.15-22.29.41:741][849]LogSavePackage: Moving '../../../../../../Users/Lyle/Documents/Unreal Projects/Safari_Snapshot/Saved/Quest_UID5C0EFA54D1377A86FF4709CD570F57B.tmp' to '../../../../../../Users/Lyle/Documents/Unreal Projects/Safari_Snapshot/Content/Lyle/QuestSystem/QuestUI/Quest_UI.uasset'
+[2022.04.15-22.29.41:788][849]LogSavePackage: Moving '../../../../../../Users/Lyle/Documents/Unreal Projects/Safari_Snapshot/Saved/QuestLog_UI0934741143BB506D421A8E9AD4E8FB8E.tmp' to '../../../../../../Users/Lyle/Documents/Unreal Projects/Safari_Snapshot/Content/Lyle/QuestSystem/QuestUI/QuestLog_UI.uasset'
+[2022.04.15-22.29.41:833][849]LogSavePackage: Moving '../../../../../../Users/Lyle/Documents/Unreal Projects/Safari_Snapshot/Saved/QuestTurnIn_UI6CD0E4C2417CA4DC91F1148AC3D86A8D.tmp' to '../../../../../../Users/Lyle/Documents/Unreal Projects/Safari_Snapshot/Content/Lyle/QuestSystem/QuestUI/QuestTurnIn_UI.uasset'
+[2022.04.15-22.29.41:864][849]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.15-22.29.41:864][849]LogContentValidation: Display: Validating Blueprint /Game/Lyle/QuestSystem/Quests/Quest.Quest
+[2022.04.15-22.29.41:864][849]LogContentValidation: Display: Validating UserDefinedStruct /Game/Lyle/QuestSystem/Objectives/ObjectiveData.ObjectiveData
+[2022.04.15-22.29.41:864][849]LogContentValidation: Display: Validating WidgetBlueprint /Game/Lyle/QuestSystem/QuestUI/SingleObjective_UI.SingleObjective_UI
+[2022.04.15-22.29.41:865][849]LogContentValidation: Display: Validating WidgetBlueprint /Game/Lyle/QuestSystem/QuestUI/Objectives_UI.Objectives_UI
+[2022.04.15-22.29.41:865][849]LogContentValidation: Display: Validating WidgetBlueprint /Game/Lyle/QuestSystem/QuestUI/Quest_UI.Quest_UI
+[2022.04.15-22.29.41:866][849]LogContentValidation: Display: Validating WidgetBlueprint /Game/Lyle/QuestSystem/QuestUI/QuestLog_UI.QuestLog_UI
+[2022.04.15-22.29.41:866][849]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2022.04.15-22.29.41:866][849]LogContentValidation: Display: Validating WidgetBlueprint /Game/Lyle/QuestSystem/QuestUI/QuestTurnIn_UI.QuestTurnIn_UI
+[2022.04.15-22.29.50:692][152]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedEnum /Game/Lyle/QuestSystem/Objectives/ObjectiveTypes.ObjectiveTypes
+[2022.04.15-22.30.36:769][556]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2022.04.15-22.30.36:769][556]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.15-22.30.36:793][556]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2022.04.15-22.30.36:793][556]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.15-22.30.40:870][779]BlueprintLog: New page: Compile QuestLog_UI
+[2022.04.15-22.30.41:144][779]LogUObjectHash: Compacting FUObjectHashTables data took   6.73ms
+[2022.04.15-22.30.42:448][861]LogUObjectHash: Compacting FUObjectHashTables data took  10.85ms
+[2022.04.15-22.30.42:545][861]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2022.04.15-22.30.42:594][861]LogSavePackage: Moving '../../../../../../Users/Lyle/Documents/Unreal Projects/Safari_Snapshot/Saved/FirstPersonExampleMap6DE90FBB47E1F65187CC349CB13938A8.tmp' to '../../../../../../Users/Lyle/Documents/Unreal Projects/Safari_Snapshot/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2022.04.15-22.30.42:613][861]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.130
+[2022.04.15-22.30.42:632][861]AssetCheck: New page: Asset Save: FirstPersonExampleMap
+[2022.04.15-22.30.42:632][861]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2022.04.15-22.30.45:480][953]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Lyle/QuestSystem/QuestUI/SingleObjective_UI.SingleObjective_UI
+[2022.04.15-22.30.55:640][831]BlueprintLog: New page: Compile SingleObjective_UI
+[2022.04.15-22.30.55:722][831]LogUObjectHash: Compacting FUObjectHashTables data took   4.51ms
+[2022.04.15-22.30.56:898][928]LogUObjectHash: Compacting FUObjectHashTables data took   6.52ms
+[2022.04.15-22.30.57:973][ 33]LogWorld: UWorld::CleanupWorld for World_51, bSessionEnded=true, bCleanupResources=true
+[2022.04.15-22.30.57:973][ 33]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.15-22.30.57:989][ 33]LogWorld: UWorld::CleanupWorld for World_50, bSessionEnded=true, bCleanupResources=true
+[2022.04.15-22.30.57:989][ 33]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.15-22.31.00:300][ 98]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.15-22.31.00:369][ 98]LogFMOD: Default sample rate = 48000
+[2022.04.15-22.31.00:369][ 98]LogFMOD: System sample rate = 48000
+[2022.04.15-22.31.00:369][ 98]LogFMOD: Matching system sample rate 48000
+[2022.04.15-22.31.00:446][ 98]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.04.15-22.31.00:479][ 98]LogPlayLevel: [PlayLevel] Compiling Quest before play...
+[2022.04.15-22.31.00:479][ 98]LogPlayLevel: [PlayLevel]   Compiling Quest_001 as a dependent...
+[2022.04.15-22.31.00:479][ 98]LogPlayLevel: [PlayLevel]   Compiling Quest_002 as a dependent...
+[2022.04.15-22.31.00:702][ 98]LogPlayLevel: [PlayLevel] Compiling Objectives_UI before play...
+[2022.04.15-22.31.00:787][ 98]LogPlayLevel: [PlayLevel] Compiling Quest_UI before play...
+[2022.04.15-22.31.00:807][ 98]LogPlayLevel: [PlayLevel] Compiling QuestTurnIn_UI before play...
+[2022.04.15-22.31.00:937][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   6.54ms
+[2022.04.15-22.31.00:938][ 98]LogPlayLevel: PlayLevel: Blueprint regeneration took 492 ms (6 blueprints)
+[2022.04.15-22.31.00:938][ 98]PIE: New page: PIE session: FirstPersonExampleMap (Apr 15, 2022, 2:31:00 PM)
+[2022.04.15-22.31.00:938][ 98]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.04.15-22.31.00:956][ 98]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018240s)
+[2022.04.15-22.31.00:958][ 98]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.04.15-22.31.00:958][ 98]LogPlayLevel: PIE: World Init took: (0.001622s)
+[2022.04.15-22.31.00:958][ 98]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.020119s)
+[2022.04.15-22.31.01:013][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   3.96ms
+[2022.04.15-22.31.01:013][ 98]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2022.04.15-22.31.01:014][ 98]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.15-22.31.01:014][ 98]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.15-22.31.01:014][ 98]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.15-22.31.01:014][ 98]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.15-22.31.01:014][ 98]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.15-22.31.01:014][ 98]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.15-22.31.01:014][ 98]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.15-22.31.01:014][ 98]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.15-22.31.01:014][ 98]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.04.15-22.31.01:014][ 98]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.04.15-22.31.01:014][ 98]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.04.15-22.31.01:014][ 98]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.15-22.31.01:016][ 98]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.15-22.31.01:016][ 98]LogAudioMixer: Display: 1: FrontRight
+[2022.04.15-22.31.01:033][ 98]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.04.15-22.31.01:033][ 98]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.15-22.31.01:033][ 98]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.15-22.31.01:033][ 98]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.15-22.31.01:034][ 98]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.15-22.31.01:034][ 98]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.15-22.31.01:034][ 98]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.15-22.31.01:036][ 98]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.15-22.31.01:036][ 98]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.15-22.31.01:036][ 98]LogInit: FAudioDevice initialized.
+[2022.04.15-22.31.01:036][ 98]LogAudio: Display: Audio Device (ID: 14) registered with world 'FirstPersonExampleMap'.
+[2022.04.15-22.31.01:056][ 98]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.04.15-22.31.01:061][ 98]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2022.04.15-18.31.01
+[2022.04.15-22.31.01:062][ 98]LogWorld: Bringing up level for play took: 0.005968
+[2022.04.15-22.31.01:063][ 98]LogOnline: OSS: Creating online subsystem instance for: :Context_41
+[2022.04.15-22.31.01:070][ 98]PIE: Server logged in
+[2022.04.15-22.31.01:071][ 98]PIE: Play in editor total start time 0.748 seconds.
+[2022.04.15-22.31.03:246][174]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2022.04.15-22.31.03:246][174]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockAlways
+[2022.04.15-22.31.03:246][174]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2022.04.15-22.31.04:001][200]LogViewport: Display: Viewport MouseLockMode Changed, LockAlways -> LockOnCapture
+[2022.04.15-22.31.04:001][200]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.04.15-22.31.16:672][720]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2022.04.15-22.31.16:672][720]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockAlways
+[2022.04.15-22.31.16:672][720]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2022.04.15-22.31.19:620][851]LogViewport: Display: Viewport MouseLockMode Changed, LockAlways -> LockOnCapture
+[2022.04.15-22.31.19:620][851]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.04.15-22.31.24:789][ 75]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2022.04.15-22.31.24:789][ 75]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockAlways
+[2022.04.15-22.31.24:789][ 75]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2022.04.15-22.31.26:268][139]LogViewport: Display: Viewport MouseLockMode Changed, LockAlways -> LockOnCapture
+[2022.04.15-22.31.26:268][139]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.04.15-22.31.26:598][152]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.04.15-22.31.26:598][152]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2022.04.15-22.31.26:598][152]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.04.15-22.31.29:356][268]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.04.15-22.31.29:356][268]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.04.15-22.31.34:198][447]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2022.04.15-22.31.34:198][447]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockAlways
+[2022.04.15-22.31.34:198][447]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2022.04.15-22.31.35:335][489]LogViewport: Display: Viewport MouseLockMode Changed, LockAlways -> LockOnCapture
+[2022.04.15-22.31.35:336][489]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.04.15-22.31.38:351][618]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2022.04.15-22.31.38:351][618]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockAlways
+[2022.04.15-22.31.38:351][618]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2022.04.15-22.31.39:816][686]LogViewport: Display: Viewport MouseLockMode Changed, LockAlways -> LockOnCapture
+[2022.04.15-22.31.39:816][686]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.04.15-22.31.43:265][822]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2022.04.15-22.31.43:266][822]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockAlways
+[2022.04.15-22.31.43:266][822]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2022.04.15-22.31.44:681][886]LogViewport: Display: Viewport MouseLockMode Changed, LockAlways -> LockOnCapture
+[2022.04.15-22.31.44:681][886]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.04.15-22.31.46:402][957]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.15-22.31.46:402][957]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.04.15-22.31.46:402][957]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.04.15-22.31.46:404][957]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.15-22.31.46:426][957]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.15-22.31.46:446][957]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.15-22.31.46:512][957]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.15-22.31.46:513][957]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.15-22.31.46:515][957]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.15-22.31.46:527][957]LogUObjectHash: Compacting FUObjectHashTables data took   5.14ms
+[2022.04.15-22.31.46:607][958]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2022.04.15-22.33.56:506][214]LogUObjectHash: Compacting FUObjectHashTables data took  10.63ms
+[2022.04.15-22.33.56:612][214]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2022.04.15-22.33.56:668][214]LogSavePackage: Moving '../../../../../../Users/Lyle/Documents/Unreal Projects/Safari_Snapshot/Saved/FirstPersonExampleMapF96276BE42E897465C0366855B98B78E.tmp' to '../../../../../../Users/Lyle/Documents/Unreal Projects/Safari_Snapshot/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2022.04.15-22.33.56:689][214]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.147
+[2022.04.15-22.33.56:716][214]AssetCheck: New page: Asset Save: FirstPersonExampleMap
+[2022.04.15-22.33.56:716][214]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2022.04.15-22.34.45:332][459]LogUObjectHash: Compacting FUObjectHashTables data took   6.21ms
+[2022.04.15-22.34.45:442][459]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2022.04.15-22.34.45:488][459]LogSavePackage: Moving '../../../../../../Users/Lyle/Documents/Unreal Projects/Safari_Snapshot/Saved/FirstPersonExampleMapEC888A9949CFFF9FD7B07D93A102D0EB.tmp' to '../../../../../../Users/Lyle/Documents/Unreal Projects/Safari_Snapshot/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2022.04.15-22.34.45:506][459]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.132
+[2022.04.15-22.34.45:534][459]AssetCheck: New page: Asset Save: FirstPersonExampleMap
+[2022.04.15-22.34.45:534][459]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2022.04.15-22.34.46:031][476]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.15-22.34.46:088][476]LogFMOD: Default sample rate = 48000
+[2022.04.15-22.34.46:088][476]LogFMOD: System sample rate = 48000
+[2022.04.15-22.34.46:088][476]LogFMOD: Matching system sample rate 48000
+[2022.04.15-22.34.46:156][476]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.15-22.34.46:156][476]PIE: New page: PIE session: FirstPersonExampleMap (Apr 15, 2022, 2:34:46 PM)
+[2022.04.15-22.34.46:156][476]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.04.15-22.34.46:183][476]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026563s)
+[2022.04.15-22.34.46:184][476]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.04.15-22.34.46:185][476]LogPlayLevel: PIE: World Init took: (0.002100s)
+[2022.04.15-22.34.46:185][476]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.028942s)
+[2022.04.15-22.34.46:246][476]LogUObjectHash: Compacting FUObjectHashTables data took   4.68ms
+[2022.04.15-22.34.46:247][476]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2022.04.15-22.34.46:247][476]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.15-22.34.46:247][476]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.15-22.34.46:247][476]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.15-22.34.46:247][476]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.15-22.34.46:247][476]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.15-22.34.46:247][476]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.15-22.34.46:247][476]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.15-22.34.46:247][476]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.15-22.34.46:248][476]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.04.15-22.34.46:248][476]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.04.15-22.34.46:248][476]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.04.15-22.34.46:248][476]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.15-22.34.46:250][476]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.15-22.34.46:250][476]LogAudioMixer: Display: 1: FrontRight
+[2022.04.15-22.34.46:266][476]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.04.15-22.34.46:267][476]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.15-22.34.46:267][476]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.15-22.34.46:267][476]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.15-22.34.46:268][476]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.15-22.34.46:268][476]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.15-22.34.46:268][476]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.15-22.34.46:270][476]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.15-22.34.46:270][476]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.15-22.34.46:270][476]LogInit: FAudioDevice initialized.
+[2022.04.15-22.34.46:270][476]LogAudio: Display: Audio Device (ID: 15) registered with world 'FirstPersonExampleMap'.
+[2022.04.15-22.34.46:282][476]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.04.15-22.34.46:288][476]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2022.04.15-18.34.46
+[2022.04.15-22.34.46:290][476]LogWorld: Bringing up level for play took: 0.007228
+[2022.04.15-22.34.46:290][476]LogOnline: OSS: Creating online subsystem instance for: :Context_42
+[2022.04.15-22.34.46:298][476]PIE: Server logged in
+[2022.04.15-22.34.46:299][476]PIE: Play in editor total start time 0.247 seconds.
+[2022.04.15-22.34.49:551][602]LogCharacterMovement: Zebra_2 is stuck and failed to move! Velocity: X=-435.09 Y=194.13 Z=0.00 Location: X=-1280.13 Y=-86.21 Z=302.59 Normal: X=-0.20 Y=-0.98 Z=-0.00 PenetrationDepth:4.859 Actor:EditorCube21_15 Component:StaticMeshComponent0 BoneName:None (0 other events since notify)
+[2022.04.15-22.34.52:688][731]LogCharacterMovement: Anim_Lion_2 is stuck and failed to move! Velocity: X=524.94 Y=-290.58 Z=0.00 Location: X=-417.12 Y=827.38 Z=261.07 Normal: X=-0.90 Y=-0.39 Z=0.18 PenetrationDepth:0.004 Actor:Zebra_2 Component:CharacterMesh0 BoneName:ZEBRA_-R-HorseLink (0 other events since notify)
+[2022.04.15-22.34.54:885][820]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2022.04.15-22.34.54:885][820]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockAlways
+[2022.04.15-22.34.54:886][820]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2022.04.15-22.34.54:958][823]LogCharacterMovement: Anim_Lion_2 is stuck and failed to move! Velocity: X=-432.19 Y=182.31 Z=0.00 Location: X=-391.37 Y=763.71 Z=258.33 Normal: X=0.57 Y=-0.66 Z=-0.49 PenetrationDepth:2.972 Actor:Zebra_2 Component:CharacterMesh0 BoneName:ZEBRA_-Head (0 other events since notify)
+[2022.04.15-22.34.56:274][881]LogViewport: Display: Viewport MouseLockMode Changed, LockAlways -> LockOnCapture
+[2022.04.15-22.34.56:274][881]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.04.15-22.35.06:157][250]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2022.04.15-22.35.06:157][250]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockAlways
+[2022.04.15-22.35.06:157][250]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2022.04.15-22.35.07:360][295]LogViewport: Display: Viewport MouseLockMode Changed, LockAlways -> LockOnCapture
+[2022.04.15-22.35.07:360][295]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.04.15-22.35.10:800][425]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2022.04.15-22.35.10:800][425]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockAlways
+[2022.04.15-22.35.10:800][425]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2022.04.15-22.35.12:292][488]LogViewport: Display: Viewport MouseLockMode Changed, LockAlways -> LockOnCapture
+[2022.04.15-22.35.12:292][488]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.04.15-22.35.17:168][666]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2022.04.15-22.35.17:168][666]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockAlways
+[2022.04.15-22.35.17:168][666]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2022.04.15-22.35.18:357][715]LogViewport: Display: Viewport MouseLockMode Changed, LockAlways -> LockOnCapture
+[2022.04.15-22.35.18:357][715]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.04.15-22.35.18:655][727]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.04.15-22.35.18:656][727]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2022.04.15-22.35.18:656][727]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.04.15-22.35.18:982][741]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.04.15-22.35.18:982][741]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.04.15-22.35.20:520][800]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.04.15-22.35.20:520][800]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.04.15-22.35.20:843][811]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.04.15-22.35.20:843][811]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.04.15-22.35.22:297][862]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.04.15-22.35.22:298][862]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.04.15-22.35.22:707][880]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.04.15-22.35.22:707][880]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.04.15-22.35.26:372][ 27]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.15-22.35.26:372][ 27]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.04.15-22.35.26:373][ 27]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.04.15-22.35.26:375][ 27]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.15-22.35.26:399][ 27]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.15-22.35.26:421][ 27]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.15-22.35.26:476][ 27]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.15-22.35.26:477][ 27]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.15-22.35.26:481][ 27]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.15-22.35.26:492][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   4.32ms
+[2022.04.15-22.35.26:551][ 28]LogPlayLevel: Display: Destroying online subsystem :Context_42
