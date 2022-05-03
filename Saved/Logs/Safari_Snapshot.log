@@ -1838,3 +1838,119 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.05.03-03.45.56:985][624]LogContentValidation: Display: Validating WidgetBlueprint /Game/Lyle/QuestSystem/QuestUI/QuestTurnIn_UI.QuestTurnIn_UI
 [2022.05.03-03.45.59:372][711]LogTemp: Repeating last play command: Standalone Game
 [2022.05.03-03.45.59:457][711]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
+[2022.05.03-03.48.23:984][957]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Lyle/QuestSystem/QuestUI/HUD_UI.HUD_UI
+[2022.05.03-03.48.39:866][449]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2022.05.03-03.50.26:967][222]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/James/AI_Docile_Base/AI_Docile_Base.AI_Docile_Base
+[2022.05.03-03.51.39:568][429]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedEnum /Game/Lyle/QuestSystem/Objectives/ObjectiveTypes.ObjectiveTypes
+[2022.05.03-03.51.54:836][105]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Lyle/QuestSystem/Quests/Quest.Quest
+[2022.05.03-03.52.42:044][794]BlueprintLog: New page: Compile Quest
+[2022.05.03-03.52.42:256][794]LogUObjectHash: Compacting FUObjectHashTables data took   5.91ms
+[2022.05.03-03.53.04:924][ 58]BlueprintLog: New page: Compile Quest
+[2022.05.03-03.53.05:052][ 58]LogUObjectHash: Compacting FUObjectHashTables data took   5.48ms
+[2022.05.03-03.53.08:840][252]BlueprintLog: New page: Compile Quest
+[2022.05.03-03.53.08:968][252]LogUObjectHash: Compacting FUObjectHashTables data took   4.72ms
+[2022.05.03-03.53.09:978][293]LogUObjectHash: Compacting FUObjectHashTables data took   4.65ms
+[2022.05.03-03.53.10:062][293]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2022.05.03-03.53.13:760][293]LogSavePackage: Moving '../../../../../../Users/Lyle/Documents/Unreal Projects/Safari_Snapshot/Saved/Main_Map1B629D2EA42FB0999AF5CCDBD6C4D6D6A.tmp' to '../../../../../../Users/Lyle/Documents/Unreal Projects/Safari_Snapshot/Content/Andrew_and_Chris/Main_Map1.umap'
+[2022.05.03-03.53.13:796][293]LogFileHelpers: Saving map 'Main_Map1' took 3.788
+[2022.05.03-03.53.13:797][293]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lyle/QuestSystem/Quests/Quest" FILE="../../../../../../Users/Lyle/Documents/Unreal Projects/Safari_Snapshot/Content/Lyle/QuestSystem/Quests/Quest.uasset" SILENT=true
+[2022.05.03-03.53.13:878][293]LogSavePackage: Moving '../../../../../../Users/Lyle/Documents/Unreal Projects/Safari_Snapshot/Saved/QuestF258098B446B6DF3680C7F985CD9891C.tmp' to '../../../../../../Users/Lyle/Documents/Unreal Projects/Safari_Snapshot/Content/Lyle/QuestSystem/Quests/Quest.uasset'
+[2022.05.03-03.53.13:888][293]LogSavePackage: Moving '../../../../../../Users/Lyle/Documents/Unreal Projects/Safari_Snapshot/Saved/Quest_0013A0097274F17CA4997BA6BA032D93884.tmp' to '../../../../../../Users/Lyle/Documents/Unreal Projects/Safari_Snapshot/Content/Lyle/QuestSystem/Quests/Quest_001.uasset'
+[2022.05.03-03.53.13:897][293]LogSavePackage: Moving '../../../../../../Users/Lyle/Documents/Unreal Projects/Safari_Snapshot/Saved/Quest_00202F74E7D4467C56EA64C889A52FDBE89.tmp' to '../../../../../../Users/Lyle/Documents/Unreal Projects/Safari_Snapshot/Content/Lyle/QuestSystem/Quests/Quest_002.uasset'
+[2022.05.03-03.53.13:946][293]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.03-03.53.13:946][293]LogContentValidation: Display: Validating Blueprint /Game/Lyle/QuestSystem/Quests/Quest.Quest
+[2022.05.03-03.53.13:946][293]LogContentValidation: Display: Validating Blueprint /Game/Lyle/QuestSystem/Quests/Quest_002.Quest_002
+[2022.05.03-03.53.13:946][293]LogContentValidation: Display: Validating Blueprint /Game/Lyle/QuestSystem/Quests/Quest_001.Quest_001
+[2022.05.03-03.53.13:946][293]LogContentValidation: Display: Validating World /Game/Andrew_and_Chris/Main_Map1.Main_Map1
+[2022.05.03-03.54.23:327][909]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/Lyle/QuestSystem/Objectives/ObjectiveData.ObjectiveData
+[2022.05.03-03.55.23:884][468]LogUObjectHash: Compacting FUObjectHashTables data took   7.92ms
+[2022.05.03-03.55.23:923][468]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lyle/QuestSystem/Quests/Quest" FILE="../../../../../../Users/Lyle/Documents/Unreal Projects/Safari_Snapshot/Content/Lyle/QuestSystem/Quests/Quest.uasset" SILENT=true
+[2022.05.03-03.55.24:002][468]LogSavePackage: Moving '../../../../../../Users/Lyle/Documents/Unreal Projects/Safari_Snapshot/Saved/Quest2A1D59CB42E2F1D0A12262BFF03B4A0C.tmp' to '../../../../../../Users/Lyle/Documents/Unreal Projects/Safari_Snapshot/Content/Lyle/QuestSystem/Quests/Quest.uasset'
+[2022.05.03-03.55.24:009][468]LogSavePackage: Moving '../../../../../../Users/Lyle/Documents/Unreal Projects/Safari_Snapshot/Saved/ObjectiveData3EEC23B84D3BF2705B9B56BEEB839D2B.tmp' to '../../../../../../Users/Lyle/Documents/Unreal Projects/Safari_Snapshot/Content/Lyle/QuestSystem/Objectives/ObjectiveData.uasset'
+[2022.05.03-03.55.24:027][468]LogSavePackage: Moving '../../../../../../Users/Lyle/Documents/Unreal Projects/Safari_Snapshot/Saved/Objectives_UIBF23C616497A6C9BC359A388B3C21D28.tmp' to '../../../../../../Users/Lyle/Documents/Unreal Projects/Safari_Snapshot/Content/Lyle/QuestSystem/QuestUI/Objectives_UI.uasset'
+[2022.05.03-03.55.24:040][468]LogSavePackage: Moving '../../../../../../Users/Lyle/Documents/Unreal Projects/Safari_Snapshot/Saved/SingleObjective_UIB3146A8F4AD3AE2DCFDEA885D0B54781.tmp' to '../../../../../../Users/Lyle/Documents/Unreal Projects/Safari_Snapshot/Content/Lyle/QuestSystem/QuestUI/SingleObjective_UI.uasset'
+[2022.05.03-03.55.24:068][468]LogSavePackage: Moving '../../../../../../Users/Lyle/Documents/Unreal Projects/Safari_Snapshot/Saved/Quest_UIB363E7A74B95BEF9AA78D79F774A4C5F.tmp' to '../../../../../../Users/Lyle/Documents/Unreal Projects/Safari_Snapshot/Content/Lyle/QuestSystem/QuestUI/Quest_UI.uasset'
+[2022.05.03-03.55.24:104][468]LogSavePackage: Moving '../../../../../../Users/Lyle/Documents/Unreal Projects/Safari_Snapshot/Saved/QuestLog_UIFD2D93F045F9A598B7CB488EF7ABB633.tmp' to '../../../../../../Users/Lyle/Documents/Unreal Projects/Safari_Snapshot/Content/Lyle/QuestSystem/QuestUI/QuestLog_UI.uasset'
+[2022.05.03-03.55.24:165][468]LogSavePackage: Moving '../../../../../../Users/Lyle/Documents/Unreal Projects/Safari_Snapshot/Saved/QuestTurnIn_UI6124E8B3447C90AC8BA2ED86A0A723AF.tmp' to '../../../../../../Users/Lyle/Documents/Unreal Projects/Safari_Snapshot/Content/Lyle/QuestSystem/QuestUI/QuestTurnIn_UI.uasset'
+[2022.05.03-03.55.24:200][468]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.03-03.55.24:200][468]LogContentValidation: Display: Validating Blueprint /Game/Lyle/QuestSystem/Quests/Quest.Quest
+[2022.05.03-03.55.24:200][468]LogContentValidation: Display: Validating UserDefinedStruct /Game/Lyle/QuestSystem/Objectives/ObjectiveData.ObjectiveData
+[2022.05.03-03.55.24:200][468]LogContentValidation: Display: Validating WidgetBlueprint /Game/Lyle/QuestSystem/QuestUI/SingleObjective_UI.SingleObjective_UI
+[2022.05.03-03.55.24:200][468]LogContentValidation: Display: Validating WidgetBlueprint /Game/Lyle/QuestSystem/QuestUI/Objectives_UI.Objectives_UI
+[2022.05.03-03.55.24:201][468]LogContentValidation: Display: Validating WidgetBlueprint /Game/Lyle/QuestSystem/QuestUI/Quest_UI.Quest_UI
+[2022.05.03-03.55.24:201][468]LogContentValidation: Display: Validating WidgetBlueprint /Game/Lyle/QuestSystem/QuestUI/QuestLog_UI.QuestLog_UI
+[2022.05.03-03.55.24:202][468]LogContentValidation: Display: Validating WidgetBlueprint /Game/Lyle/QuestSystem/QuestUI/QuestTurnIn_UI.QuestTurnIn_UI
+[2022.05.03-03.55.26:199][568]LogUObjectHash: Compacting FUObjectHashTables data took   4.86ms
+[2022.05.03-03.55.26:223][568]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lyle/QuestSystem/Quests/Quest" FILE="../../../../../../Users/Lyle/Documents/Unreal Projects/Safari_Snapshot/Content/Lyle/QuestSystem/Quests/Quest.uasset" SILENT=true
+[2022.05.03-03.55.26:303][568]LogSavePackage: Moving '../../../../../../Users/Lyle/Documents/Unreal Projects/Safari_Snapshot/Saved/Quest0264F3C445CFFCA04A2A8AB80AAED832.tmp' to '../../../../../../Users/Lyle/Documents/Unreal Projects/Safari_Snapshot/Content/Lyle/QuestSystem/Quests/Quest.uasset'
+[2022.05.03-03.55.26:308][568]LogSavePackage: Moving '../../../../../../Users/Lyle/Documents/Unreal Projects/Safari_Snapshot/Saved/ObjectiveData53B55DC443F7BCCAEBE6079F0F85FC98.tmp' to '../../../../../../Users/Lyle/Documents/Unreal Projects/Safari_Snapshot/Content/Lyle/QuestSystem/Objectives/ObjectiveData.uasset'
+[2022.05.03-03.55.26:324][568]LogSavePackage: Moving '../../../../../../Users/Lyle/Documents/Unreal Projects/Safari_Snapshot/Saved/Objectives_UI3DF2E15B47218FC0CCB291BBA75C25E4.tmp' to '../../../../../../Users/Lyle/Documents/Unreal Projects/Safari_Snapshot/Content/Lyle/QuestSystem/QuestUI/Objectives_UI.uasset'
+[2022.05.03-03.55.26:336][568]LogSavePackage: Moving '../../../../../../Users/Lyle/Documents/Unreal Projects/Safari_Snapshot/Saved/SingleObjective_UI7019B6AB45AB8001D7746CA66352272F.tmp' to '../../../../../../Users/Lyle/Documents/Unreal Projects/Safari_Snapshot/Content/Lyle/QuestSystem/QuestUI/SingleObjective_UI.uasset'
+[2022.05.03-03.55.26:369][568]LogSavePackage: Moving '../../../../../../Users/Lyle/Documents/Unreal Projects/Safari_Snapshot/Saved/Quest_UI7125CFA74134BA807B3937A85B938128.tmp' to '../../../../../../Users/Lyle/Documents/Unreal Projects/Safari_Snapshot/Content/Lyle/QuestSystem/QuestUI/Quest_UI.uasset'
+[2022.05.03-03.55.26:417][568]LogSavePackage: Moving '../../../../../../Users/Lyle/Documents/Unreal Projects/Safari_Snapshot/Saved/QuestLog_UI7E5081DA4CCAF77A1F9BD38DC4146982.tmp' to '../../../../../../Users/Lyle/Documents/Unreal Projects/Safari_Snapshot/Content/Lyle/QuestSystem/QuestUI/QuestLog_UI.uasset'
+[2022.05.03-03.55.26:477][568]LogSavePackage: Moving '../../../../../../Users/Lyle/Documents/Unreal Projects/Safari_Snapshot/Saved/QuestTurnIn_UI344236484FE0B73B3EA3759825B9EFF5.tmp' to '../../../../../../Users/Lyle/Documents/Unreal Projects/Safari_Snapshot/Content/Lyle/QuestSystem/QuestUI/QuestTurnIn_UI.uasset'
+[2022.05.03-03.55.26:510][568]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.03-03.55.26:510][568]LogContentValidation: Display: Validating Blueprint /Game/Lyle/QuestSystem/Quests/Quest.Quest
+[2022.05.03-03.55.26:510][568]LogContentValidation: Display: Validating UserDefinedStruct /Game/Lyle/QuestSystem/Objectives/ObjectiveData.ObjectiveData
+[2022.05.03-03.55.26:510][568]LogContentValidation: Display: Validating WidgetBlueprint /Game/Lyle/QuestSystem/QuestUI/SingleObjective_UI.SingleObjective_UI
+[2022.05.03-03.55.26:512][568]LogContentValidation: Display: Validating WidgetBlueprint /Game/Lyle/QuestSystem/QuestUI/Objectives_UI.Objectives_UI
+[2022.05.03-03.55.26:512][568]LogContentValidation: Display: Validating WidgetBlueprint /Game/Lyle/QuestSystem/QuestUI/Quest_UI.Quest_UI
+[2022.05.03-03.55.26:512][568]LogContentValidation: Display: Validating WidgetBlueprint /Game/Lyle/QuestSystem/QuestUI/QuestLog_UI.QuestLog_UI
+[2022.05.03-03.55.26:514][568]LogContentValidation: Display: Validating WidgetBlueprint /Game/Lyle/QuestSystem/QuestUI/QuestTurnIn_UI.QuestTurnIn_UI
+[2022.05.03-04.01.27:807][871]LogEditorTransaction: Undo Move Node
+[2022.05.03-04.01.28:534][894]LogEditorTransaction: Undo Create Pin Link
+[2022.05.03-04.02.15:600][456]LogEditorTransaction: Undo Move Node
+[2022.05.03-04.02.56:920][838]LogSlate: Window 'Color Picker' being destroyed
+[2022.05.03-04.03.23:367][384]LogUObjectHash: Compacting FUObjectHashTables data took   5.55ms
+[2022.05.03-04.03.23:371][384]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Andrew_and_Chris/Main_Map1' took 0.078
+[2022.05.03-04.03.23:373][384]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Lyle/QuestSystem/Quests/Quest] ([2] browsable assets)...
+[2022.05.03-04.03.23:373][384]OBJ SavePackage: Finished generating thumbnails for package [/Game/Lyle/QuestSystem/Quests/Quest]
+[2022.05.03-04.03.23:450][384]LogSavePackage: Moving '../../../../../../Users/Lyle/Documents/Unreal Projects/Safari_Snapshot/Saved/Quest_Auto17014F3F64D1F7F82579C1198BB04459A.tmp' to '../../../../../../Users/Lyle/Documents/Unreal Projects/Safari_Snapshot/Saved/Autosaves/Game/Lyle/QuestSystem/Quests/Quest_Auto1.uasset'
+[2022.05.03-04.03.23:452][384]LogFileHelpers: Auto-saving content packages took 0.081
+[2022.05.03-04.10.22:271][421]BlueprintLog: New page: Compile Quest
+[2022.05.03-04.10.22:490][421]LogUObjectHash: Compacting FUObjectHashTables data took   7.62ms
+[2022.05.03-04.13.46:193][517]BlueprintLog: New page: Compile Quest
+[2022.05.03-04.13.46:356][517]LogUObjectHash: Compacting FUObjectHashTables data took   6.95ms
+[2022.05.03-04.13.47:751][562]LogUObjectHash: Compacting FUObjectHashTables data took   8.51ms
+[2022.05.03-04.13.47:856][562]LogUObjectHash: Compacting FUObjectHashTables data took   4.59ms
+[2022.05.03-04.13.50:785][562]LogSavePackage: Moving '../../../../../../Users/Lyle/Documents/Unreal Projects/Safari_Snapshot/Saved/Main_Map14B47CEBE46B33F1F619995A94D7E7DA9.tmp' to '../../../../../../Users/Lyle/Documents/Unreal Projects/Safari_Snapshot/Content/Andrew_and_Chris/Main_Map1.umap'
+[2022.05.03-04.13.50:809][562]LogFileHelpers: Saving map 'Main_Map1' took 3.020
+[2022.05.03-04.13.50:809][562]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lyle/QuestSystem/Quests/Quest" FILE="../../../../../../Users/Lyle/Documents/Unreal Projects/Safari_Snapshot/Content/Lyle/QuestSystem/Quests/Quest.uasset" SILENT=true
+[2022.05.03-04.13.50:891][562]LogSavePackage: Moving '../../../../../../Users/Lyle/Documents/Unreal Projects/Safari_Snapshot/Saved/Quest13387D0B469B3174C85AE39E338B99DF.tmp' to '../../../../../../Users/Lyle/Documents/Unreal Projects/Safari_Snapshot/Content/Lyle/QuestSystem/Quests/Quest.uasset'
+[2022.05.03-04.13.50:942][562]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.03-04.13.50:942][562]LogContentValidation: Display: Validating Blueprint /Game/Lyle/QuestSystem/Quests/Quest.Quest
+[2022.05.03-04.13.50:942][562]LogContentValidation: Display: Validating World /Game/Andrew_and_Chris/Main_Map1.Main_Map1
+[2022.05.03-04.14.29:536][521]LogUObjectHash: Compacting FUObjectHashTables data took  10.49ms
+[2022.05.03-04.14.29:649][521]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2022.05.03-04.14.32:619][521]LogSavePackage: Moving '../../../../../../Users/Lyle/Documents/Unreal Projects/Safari_Snapshot/Saved/Main_Map1B37B577E48DB983278241892A9BE5BCC.tmp' to '../../../../../../Users/Lyle/Documents/Unreal Projects/Safari_Snapshot/Content/Andrew_and_Chris/Main_Map1.umap'
+[2022.05.03-04.14.32:642][521]LogFileHelpers: Saving map 'Main_Map1' took 3.070
+[2022.05.03-04.14.32:693][521]AssetCheck: New page: Asset Save: Main_Map1
+[2022.05.03-04.14.32:693][521]LogContentValidation: Display: Validating World /Game/Andrew_and_Chris/Main_Map1.Main_Map1
+[2022.05.03-04.14.50:853][989]LogTemp: Repeating last play command: Standalone Game
+[2022.05.03-04.14.50:973][989]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2022.05.03-04.14.54:608][ 59]LogTemp: Repeating last play command: Standalone Game
+[2022.05.03-04.14.54:759][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   8.06ms
+[2022.05.03-04.16.03:563][557]LogUObjectHash: Compacting FUObjectHashTables data took  10.23ms
+[2022.05.03-04.16.03:713][557]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2022.05.03-04.16.07:197][557]LogSavePackage: Moving '../../../../../../Users/Lyle/Documents/Unreal Projects/Safari_Snapshot/Saved/Main_Map1CEFCE9B04E8E2918D820A4B05102F971.tmp' to '../../../../../../Users/Lyle/Documents/Unreal Projects/Safari_Snapshot/Content/Andrew_and_Chris/Main_Map1.umap'
+[2022.05.03-04.16.07:219][557]LogFileHelpers: Saving map 'Main_Map1' took 3.607
+[2022.05.03-04.16.07:256][557]AssetCheck: New page: Asset Save: Main_Map1
+[2022.05.03-04.16.07:256][557]LogContentValidation: Display: Validating World /Game/Andrew_and_Chris/Main_Map1.Main_Map1
+[2022.05.03-04.16.19:268][761]LogUObjectHash: Compacting FUObjectHashTables data took   8.02ms
+[2022.05.03-04.16.22:959][761]LogSavePackage: Moving '../../../../../../Users/Lyle/Documents/Unreal Projects/Safari_Snapshot/Saved/Main_Map1A1DBAC4C4718AF0A7AF540987FE4DAA1.tmp' to '../../../../../../Users/Lyle/Documents/Unreal Projects/Safari_Snapshot/Content/Andrew_and_Chris/Main_Map1.umap'
+[2022.05.03-04.16.23:215][761]LogSavePackage: Moving '../../../../../../Users/Lyle/Documents/Unreal Projects/Safari_Snapshot/Saved/Main_Map1_BuiltData52D8D5434F5DE68BF9D12B909346E933.tmp' to '../../../../../../Users/Lyle/Documents/Unreal Projects/Safari_Snapshot/Content/Andrew_and_Chris/Main_Map1_BuiltData.uasset'
+[2022.05.03-04.16.23:247][761]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.03-04.16.23:247][761]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Andrew_and_Chris/Main_Map1_BuiltData.Main_Map1_BuiltData
+[2022.05.03-04.16.23:247][761]LogContentValidation: Display: Validating World /Game/Andrew_and_Chris/Main_Map1.Main_Map1
+[2022.05.03-04.16.24:114][779]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2022.05.03-04.16.25:737][816]LogTemp: Repeating last play command: Standalone Game
+[2022.05.03-04.16.25:846][816]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2022.05.03-04.17.25:352][201]LogUObjectHash: Compacting FUObjectHashTables data took   5.14ms
+[2022.05.03-04.17.25:466][201]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2022.05.03-04.17.28:431][201]LogSavePackage: Moving '../../../../../../Users/Lyle/Documents/Unreal Projects/Safari_Snapshot/Saved/Main_Map1C539057C4535F8BB430DE9A2C7ED15F1.tmp' to '../../../../../../Users/Lyle/Documents/Unreal Projects/Safari_Snapshot/Content/Andrew_and_Chris/Main_Map1.umap'
+[2022.05.03-04.17.28:450][201]LogFileHelpers: Saving map 'Main_Map1' took 3.060
+[2022.05.03-04.17.28:481][201]AssetCheck: New page: Asset Save: Main_Map1
+[2022.05.03-04.17.28:482][201]LogContentValidation: Display: Validating World /Game/Andrew_and_Chris/Main_Map1.Main_Map1
+[2022.05.03-04.17.30:586][251]LogTemp: Repeating last play command: Standalone Game
+[2022.05.03-04.17.30:691][251]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2022.05.03-04.19.35:506][971]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
