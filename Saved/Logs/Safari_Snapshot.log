@@ -1071,3 +1071,126 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.05.04-22.49.17:806][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
 [2022.05.04-22.49.20:527][ 28]LogSlate: Window 'Message Log' being destroyed
 [2022.05.04-22.49.21:935][ 43]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/Lyle/Documents/Unreal Projects/Safari_Snapshot/Content/' took 5.42s
+[2022.05.04-22.55.22:930][217]LogTemp: Repeating last play command: Standalone Game
+[2022.05.04-22.55.22:982][217]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2022.05.04-22.56.49:287][628]LogSlate: Took 0.001760 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.05.04-22.56.49:381][628]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Lyle/QuestSystem/Quests/Quest.Quest
+[2022.05.04-22.56.49:832][628]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 126 classes and 0 folders.
+[2022.05.04-22.56.51:375][628]LogSlate: Took 0.006472 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.05.04-22.56.51:581][629]LogSlate: Took 0.000898 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.05.04-22.57.33:917][ 70]LogSlate: Window 'Color Picker' being destroyed
+[2022.05.04-22.57.35:109][135]BlueprintLog: New page: Compile Quest
+[2022.05.04-22.57.35:225][135]LogUObjectHash: Compacting FUObjectHashTables data took   4.08ms
+[2022.05.04-22.57.36:692][216]LogUObjectHash: Compacting FUObjectHashTables data took   3.62ms
+[2022.05.04-22.57.36:777][216]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2022.05.04-22.57.42:945][216]LogSavePackage: Moving '../../../../../../Users/Lyle/Documents/Unreal Projects/Safari_Snapshot/Saved/Main_Map1A6EDC7294E258784514803985C797E02.tmp' to '../../../../../../Users/Lyle/Documents/Unreal Projects/Safari_Snapshot/Content/Andrew_and_Chris/Main_Map1.umap'
+[2022.05.04-22.57.42:970][216]LogFileHelpers: Saving map 'Main_Map1' took 6.229
+[2022.05.04-22.57.42:971][216]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lyle/QuestSystem/Quests/Quest" FILE="../../../../../../Users/Lyle/Documents/Unreal Projects/Safari_Snapshot/Content/Lyle/QuestSystem/Quests/Quest.uasset" SILENT=true
+[2022.05.04-22.57.43:087][216]LogSavePackage: Moving '../../../../../../Users/Lyle/Documents/Unreal Projects/Safari_Snapshot/Saved/QuestF7F82DF6472E0CFD273E8DB6FAF39970.tmp' to '../../../../../../Users/Lyle/Documents/Unreal Projects/Safari_Snapshot/Content/Lyle/QuestSystem/Quests/Quest.uasset'
+[2022.05.04-22.57.43:121][216]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.04-22.57.43:122][216]LogContentValidation: Display: Validating Blueprint /Game/Lyle/QuestSystem/Quests/Quest.Quest
+[2022.05.04-22.57.43:122][216]LogContentValidation: Display: Validating World /Game/Andrew_and_Chris/Main_Map1.Main_Map1
+[2022.05.04-22.58.33:512][996]LogSlate: Window 'Color Picker' being destroyed
+[2022.05.04-22.58.34:358][ 40]BlueprintLog: New page: Compile Quest
+[2022.05.04-22.58.34:461][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   3.92ms
+[2022.05.04-22.58.35:938][120]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2022.05.04-22.58.36:007][120]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2022.05.04-22.58.41:515][120]LogSavePackage: Moving '../../../../../../Users/Lyle/Documents/Unreal Projects/Safari_Snapshot/Saved/Main_Map1E478E6014C7D7C50056B01B6A3B5CBD9.tmp' to '../../../../../../Users/Lyle/Documents/Unreal Projects/Safari_Snapshot/Content/Andrew_and_Chris/Main_Map1.umap'
+[2022.05.04-22.58.41:556][120]LogFileHelpers: Saving map 'Main_Map1' took 5.580
+[2022.05.04-22.58.41:556][120]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lyle/QuestSystem/Quests/Quest" FILE="../../../../../../Users/Lyle/Documents/Unreal Projects/Safari_Snapshot/Content/Lyle/QuestSystem/Quests/Quest.uasset" SILENT=true
+[2022.05.04-22.58.41:637][120]LogSavePackage: Moving '../../../../../../Users/Lyle/Documents/Unreal Projects/Safari_Snapshot/Saved/QuestF2E67A7541FB440465E3B4A0C859561D.tmp' to '../../../../../../Users/Lyle/Documents/Unreal Projects/Safari_Snapshot/Content/Lyle/QuestSystem/Quests/Quest.uasset'
+[2022.05.04-22.58.41:687][120]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.04-22.58.41:687][120]LogContentValidation: Display: Validating Blueprint /Game/Lyle/QuestSystem/Quests/Quest.Quest
+[2022.05.04-22.58.41:687][120]LogContentValidation: Display: Validating World /Game/Andrew_and_Chris/Main_Map1.Main_Map1
+[2022.05.04-22.59.08:353][627]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2022.05.04-22.59.08:392][627]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lyle/QuestSystem/Quests/Quest" FILE="../../../../../../Users/Lyle/Documents/Unreal Projects/Safari_Snapshot/Content/Lyle/QuestSystem/Quests/Quest.uasset" SILENT=true
+[2022.05.04-22.59.08:490][627]LogSavePackage: Moving '../../../../../../Users/Lyle/Documents/Unreal Projects/Safari_Snapshot/Saved/Quest68A383CE491A5ED890AAB2836215C735.tmp' to '../../../../../../Users/Lyle/Documents/Unreal Projects/Safari_Snapshot/Content/Lyle/QuestSystem/Quests/Quest.uasset'
+[2022.05.04-22.59.08:530][627]AssetCheck: New page: Asset Save: Quest
+[2022.05.04-22.59.08:530][627]LogContentValidation: Display: Validating Blueprint /Game/Lyle/QuestSystem/Quests/Quest.Quest
+[2022.05.04-22.59.35:998][202]LogSlate: Window 'Color Picker' being destroyed
+[2022.05.04-22.59.37:324][277]BlueprintLog: New page: Compile Quest
+[2022.05.04-22.59.37:422][277]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2022.05.04-22.59.38:438][328]LogUObjectHash: Compacting FUObjectHashTables data took   3.94ms
+[2022.05.04-22.59.38:507][328]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2022.05.04-22.59.44:076][328]LogSavePackage: Moving '../../../../../../Users/Lyle/Documents/Unreal Projects/Safari_Snapshot/Saved/Main_Map1F20F6F7343C75ACA49973F8E19BCDDC1.tmp' to '../../../../../../Users/Lyle/Documents/Unreal Projects/Safari_Snapshot/Content/Andrew_and_Chris/Main_Map1.umap'
+[2022.05.04-22.59.44:121][328]LogFileHelpers: Saving map 'Main_Map1' took 5.648
+[2022.05.04-22.59.44:121][328]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lyle/QuestSystem/Quests/Quest" FILE="../../../../../../Users/Lyle/Documents/Unreal Projects/Safari_Snapshot/Content/Lyle/QuestSystem/Quests/Quest.uasset" SILENT=true
+[2022.05.04-22.59.44:199][328]LogSavePackage: Moving '../../../../../../Users/Lyle/Documents/Unreal Projects/Safari_Snapshot/Saved/QuestD63865614048422AC463C6943D79D315.tmp' to '../../../../../../Users/Lyle/Documents/Unreal Projects/Safari_Snapshot/Content/Lyle/QuestSystem/Quests/Quest.uasset'
+[2022.05.04-22.59.44:249][328]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.04-22.59.44:249][328]LogContentValidation: Display: Validating Blueprint /Game/Lyle/QuestSystem/Quests/Quest.Quest
+[2022.05.04-22.59.44:249][328]LogContentValidation: Display: Validating World /Game/Andrew_and_Chris/Main_Map1.Main_Map1
+[2022.05.04-22.59.45:515][396]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2022.05.04-22.59.45:515][396]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.04-22.59.50:429][440]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Lyle/QuestSystem/Quests/QuestObjectiveItem_UI.QuestObjectiveItem_UI
+[2022.05.04-22.59.55:221][474]LogSlate: Window 'QuestObjectiveItem_UI' being destroyed
+[2022.05.04-22.59.55:376][474]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2022.05.04-22.59.55:376][474]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.04-22.59.55:396][474]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2022.05.04-22.59.55:396][474]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.04-23.00.04:863][559]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Lyle/QuestSystem/QuestUI/Objectives_UI.Objectives_UI
+[2022.05.04-23.00.54:143][351]LogSlate: Window 'Color Picker' being destroyed
+[2022.05.04-23.02.56:532][600]BlueprintLog: New page: Compile Objectives_UI
+[2022.05.04-23.02.56:541][600]LogBlueprint: Error: [AssetLog] C:\Users\Lyle\Documents\Unreal Projects\Safari_Snapshot\Content\Lyle\QuestSystem\QuestUI\Objectives_UI.uasset: [Compiler] Invalid pin connection from  Array Element  and  Objective : Only exactly matching structures are considered compatible. (You may have changed the type after the connections were made)
+[2022.05.04-23.02.56:672][600]LogUObjectHash: Compacting FUObjectHashTables data took   5.89ms
+[2022.05.04-23.03.01:674][871]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Edit Comment Color entirely.
+[2022.05.04-23.03.01:690][871]LogSlate: Window 'Color Picker' being destroyed
+[2022.05.04-23.03.02:672][923]LogUObjectHash: Compacting FUObjectHashTables data took   5.99ms
+[2022.05.04-23.03.02:730][923]LogSavePackage: Moving '../../../../../../Users/Lyle/Documents/Unreal Projects/Safari_Snapshot/Saved/Objectives_UI9C36F52A48E600421E7031B4F49EA7E2.tmp' to '../../../../../../Users/Lyle/Documents/Unreal Projects/Safari_Snapshot/Content/Lyle/QuestSystem/QuestUI/Objectives_UI.uasset'
+[2022.05.04-23.03.02:755][923]AssetCheck: New page: Asset Save: Objectives_UI
+[2022.05.04-23.03.02:755][923]LogContentValidation: Display: Validating WidgetBlueprint /Game/Lyle/QuestSystem/QuestUI/Objectives_UI.Objectives_UI
+[2022.05.04-23.03.07:186][  1]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Lyle/QuestSystem/QuestUI/Quest_UI.Quest_UI
+[2022.05.04-23.03.14:298][358]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2022.05.04-23.03.14:298][358]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.04-23.03.14:309][358]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2022.05.04-23.03.14:310][358]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.04-23.03.16:176][436]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2022.05.04-23.03.16:176][436]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.04-23.03.16:189][436]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2022.05.04-23.03.16:189][436]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.04-23.03.17:702][450]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Lyle/QuestSystem/QuestUI/QuestLog_UI.QuestLog_UI
+[2022.05.04-23.04.17:113][944]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Edit Comment Color entirely.
+[2022.05.04-23.04.17:122][944]LogSlate: Window 'Color Picker' being destroyed
+[2022.05.04-23.04.19:620][ 89]BlueprintLog: New page: Compile QuestLog_UI
+[2022.05.04-23.04.19:690][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2022.05.04-23.04.20:875][151]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
+[2022.05.04-23.04.20:951][151]LogSavePackage: Moving '../../../../../../Users/Lyle/Documents/Unreal Projects/Safari_Snapshot/Saved/QuestLog_UI9A7CDC554C947DDDDCFDF9B1535A32CA.tmp' to '../../../../../../Users/Lyle/Documents/Unreal Projects/Safari_Snapshot/Content/Lyle/QuestSystem/QuestUI/QuestLog_UI.uasset'
+[2022.05.04-23.04.20:992][151]AssetCheck: New page: Asset Save: QuestLog_UI
+[2022.05.04-23.04.20:992][151]LogContentValidation: Display: Validating WidgetBlueprint /Game/Lyle/QuestSystem/QuestUI/QuestLog_UI.QuestLog_UI
+[2022.05.04-23.04.22:516][223]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2022.05.04-23.04.22:516][223]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.04-23.04.22:527][223]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2022.05.04-23.04.22:527][223]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.04-23.04.24:402][238]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Lyle/QuestSystem/QuestUI/QuestLogEntry_UI.QuestLogEntry_UI
+[2022.05.04-23.04.28:346][439]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2022.05.04-23.04.28:346][439]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.04-23.04.28:357][439]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2022.05.04-23.04.28:358][439]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.04-23.04.29:733][451]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Lyle/QuestSystem/QuestUI/QuestTurnIn_UI.QuestTurnIn_UI
+[2022.05.04-23.04.36:122][543]LogSlate: Window 'QuestTurnIn_UI' being destroyed
+[2022.05.04-23.04.36:253][543]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2022.05.04-23.04.36:254][543]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.04-23.04.36:277][543]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2022.05.04-23.04.36:277][543]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.04-23.04.38:183][560]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Lyle/QuestSystem/QuestUI/QuestTurnIn_UI.QuestTurnIn_UI
+[2022.05.04-23.05.51:033][576]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Edit Comment Color entirely.
+[2022.05.04-23.05.51:045][576]LogSlate: Window 'Color Picker' being destroyed
+[2022.05.04-23.05.52:367][588]BlueprintLog: New page: Compile QuestTurnIn_UI
+[2022.05.04-23.05.52:510][588]LogUObjectHash: Compacting FUObjectHashTables data took   5.77ms
+[2022.05.04-23.05.53:833][601]LogUObjectHash: Compacting FUObjectHashTables data took   7.87ms
+[2022.05.04-23.05.54:091][601]LogSavePackage: Moving '../../../../../../Users/Lyle/Documents/Unreal Projects/Safari_Snapshot/Saved/QuestTurnIn_UI460751564EAF7BC0BAD83D872115AECE.tmp' to '../../../../../../Users/Lyle/Documents/Unreal Projects/Safari_Snapshot/Content/Lyle/QuestSystem/QuestUI/QuestTurnIn_UI.uasset'
+[2022.05.04-23.05.54:137][601]AssetCheck: New page: Asset Save: QuestTurnIn_UI
+[2022.05.04-23.05.54:137][601]LogContentValidation: Display: Validating WidgetBlueprint /Game/Lyle/QuestSystem/QuestUI/QuestTurnIn_UI.QuestTurnIn_UI
+[2022.05.04-23.05.58:295][640]LogSlate: Window 'QuestTurnIn_UI' being destroyed
+[2022.05.04-23.05.58:425][640]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2022.05.04-23.05.58:425][640]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.04-23.05.58:441][640]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2022.05.04-23.05.58:441][640]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.04-23.06.00:749][661]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Lyle/QuestSystem/QuestUI/SingleObjective_UI.SingleObjective_UI
+[2022.05.04-23.07.01:839][210]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Edit Comment Color entirely.
+[2022.05.04-23.07.01:847][210]LogSlate: Window 'Color Picker' being destroyed
+[2022.05.04-23.07.09:135][633]BlueprintLog: New page: Compile SingleObjective_UI
+[2022.05.04-23.07.09:181][633]LogUObjectHash: Compacting FUObjectHashTables data took   5.71ms
+[2022.05.04-23.07.09:960][670]LogUObjectHash: Compacting FUObjectHashTables data took   4.01ms
+[2022.05.04-23.07.10:009][670]LogSavePackage: Moving '../../../../../../Users/Lyle/Documents/Unreal Projects/Safari_Snapshot/Saved/SingleObjective_UI05BE640E40E58BBDAD61F5A67333FB64.tmp' to '../../../../../../Users/Lyle/Documents/Unreal Projects/Safari_Snapshot/Content/Lyle/QuestSystem/QuestUI/SingleObjective_UI.uasset'
+[2022.05.04-23.07.10:047][670]AssetCheck: New page: Asset Save: SingleObjective_UI
+[2022.05.04-23.07.10:048][670]LogContentValidation: Display: Validating WidgetBlueprint /Game/Lyle/QuestSystem/QuestUI/SingleObjective_UI.SingleObjective_UI
