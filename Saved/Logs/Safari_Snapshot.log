@@ -1067,3 +1067,1258 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.05.05-00.18.25:919][768]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 126 classes and 0 folders.
 [2022.05.05-00.18.28:454][768]LogSlate: Took 0.000189 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
 [2022.05.05-00.18.30:802][974]LogSlate: Took 0.010597 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.05.05-00.30.19:501][978]LogEditorViewport: Clicking on Actor (LMB): InstancedFoliageActor (InstancedFoliageActor)
+[2022.05.05-00.30.22:476][217]LogTemp: Repeating last play command: Standalone Game
+[2022.05.05-00.30.22:722][217]LogUObjectHash: Compacting FUObjectHashTables data took   4.69ms
+[2022.05.05-00.30.23:778][299]LogEditorViewport: Clicking on Actor (context menu): InstancedFoliageActor (InstancedFoliageActor)
+[2022.05.05-00.30.41:017][874]LogFMOD: Default sample rate = 48000
+[2022.05.05-00.30.41:017][874]LogFMOD: System sample rate = 48000
+[2022.05.05-00.30.41:017][874]LogFMOD: Matching system sample rate 48000
+[2022.05.05-00.30.41:140][874]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.05-00.30.41:140][874]BlueprintLog: Warning: Blueprint failed to compile:  NewCrocAnimBP
+[2022.05.05-00.30.41:140][874]BlueprintLog: Warning: Blueprint failed to compile:  NewHungryHippoBP
+[2022.05.05-00.30.41:161][874]LogCustomDialog: Dialog displayed:
+[2022.05.05-00.30.43:825][874]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2022.05.05-00.30.43:868][874]PIE: New page: PIE session: Main_Map1 (May 4, 2022, 4:30:43 PM)
+[2022.05.05-00.30.43:926][874]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2022.05.05-00.30.43:934][874]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.05.05-00.30.44:024][874]LogPlayLevel: Creating play world package: /Game/Andrew_and_Chris/UEDPIE_0_Main_Map1
+[2022.05.05-00.30.45:492][874]LogPlayLevel: PIE: StaticDuplicateObject took: (1.468336s)
+[2022.05.05-00.30.45:494][874]LogAIModule: Creating AISystem for world Main_Map1
+[2022.05.05-00.30.45:494][874]LogPlayLevel: PIE: World Init took: (0.001348s)
+[2022.05.05-00.30.45:494][874]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Andrew_and_Chris/Main_Map1.Main_Map1 to /Game/Andrew_and_Chris/UEDPIE_0_Main_Map1.Main_Map1 (1.470255s)
+[2022.05.05-00.30.45:527][874]LogUObjectHash: Compacting FUObjectHashTables data took   4.66ms
+[2022.05.05-00.30.45:530][874]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.05.05-00.30.45:530][874]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.05-00.30.45:530][874]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.05-00.30.45:530][874]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.05-00.30.45:530][874]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.05-00.30.45:530][874]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.05-00.30.45:530][874]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.05-00.30.45:530][874]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.05-00.30.45:530][874]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.05-00.30.45:531][874]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.05-00.30.45:531][874]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.05-00.30.45:531][874]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.05-00.30.45:531][874]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.05-00.30.45:533][874]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.05-00.30.45:533][874]LogAudioMixer: Display: 1: FrontRight
+[2022.05.05-00.30.45:541][874]LogAudioMixer: Display: Using Audio Device Speakers (2- G733 Gaming Headset)
+[2022.05.05-00.30.45:541][874]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.05-00.30.45:541][874]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.05-00.30.45:541][874]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.05-00.30.45:542][874]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.05-00.30.45:542][874]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.05-00.30.45:542][874]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.05-00.30.45:543][874]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.05-00.30.45:544][874]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.05-00.30.45:544][874]LogInit: FAudioDevice initialized.
+[2022.05.05-00.30.45:544][874]LogAudio: Display: Audio Device (ID: 2) registered with world 'Main_Map1'.
+[2022.05.05-00.30.45:555][874]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.05.05-00.30.45:611][874]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.30.45:611][874]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.30.45:611][874]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.30.45:611][874]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.30.45:611][874]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.30.45:611][874]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.30.45:611][874]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.30.45:611][874]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.30.45:611][874]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.30.45:611][874]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.30.45:611][874]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.30.45:611][874]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.30.45:611][874]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.30.45:611][874]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.30.45:611][874]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.30.45:611][874]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.30.45:612][874]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.30.45:612][874]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.30.45:612][874]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.30.45:612][874]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.30.45:612][874]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.30.45:612][874]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.30.45:612][874]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.30.45:612][874]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.30.45:612][874]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.30.45:612][874]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.30.45:612][874]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.30.45:612][874]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.30.45:612][874]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.30.45:612][874]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.30.45:612][874]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.30.45:612][874]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.30.45:612][874]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.30.45:612][874]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.30.45:612][874]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.30.45:612][874]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.30.45:612][874]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.30.45:612][874]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.30.45:612][874]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.30.45:612][874]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.30.45:612][874]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.30.45:612][874]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.30.45:612][874]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.30.45:612][874]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.30.45:612][874]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.30.45:613][874]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.30.45:613][874]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.30.45:613][874]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.30.45:613][874]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.30.45:613][874]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.30.45:613][874]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.30.45:613][874]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.30.45:613][874]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.30.45:613][874]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.30.45:613][874]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.30.45:613][874]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.30.45:613][874]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.30.45:613][874]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.30.45:613][874]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.30.45:613][874]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.30.45:613][874]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.30.45:613][874]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.30.45:613][874]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.30.45:613][874]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.30.45:613][874]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.30.45:613][874]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.30.45:613][874]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.30.45:613][874]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.30.45:613][874]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.30.45:614][874]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.30.45:614][874]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.30.45:614][874]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.30.45:614][874]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.30.45:614][874]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.30.45:614][874]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.30.45:614][874]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.30.45:614][874]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.30.45:614][874]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.30.45:614][874]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.30.45:614][874]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.30.45:631][874]LogWorld: Bringing World /Game/Andrew_and_Chris/UEDPIE_0_Main_Map1.Main_Map1 up for play (max tick rate 0) at 2022.05.04-20.30.45
+[2022.05.05-00.30.45:647][874]LogWorld: Bringing up level for play took: 0.091232
+[2022.05.05-00.30.45:733][874]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2022.05.05-00.30.45:736][874]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2022.05.05-00.30.46:611][874]LogScript: Warning: Runaway loop detected (over 1,000,000 iterations) - see log for stack trace
+	Grass2_Component_BP_C /Game/Andrew_and_Chris/UEDPIE_0_Main_Map1.Main_Map1:PersistentLevel.InstancedFoliageActor_0.Grass2_Component_BP_C_0
+	Function /Game/DynamicGrassLite/Blueprints/InternalLogic/INTERACTIVE_FoliageComp_BP.INTERACTIVE_FoliageComp_BP_C:ExecuteUbergraph_INTERACTIVE_FoliageComp_BP:086D
+[2022.05.05-00.30.46:611][874]PIE: Error: Infinite loop detected. Blueprint:  INTERACTIVE_FoliageComp_BP Function:  Outputs Call Stack:  Show
+[2022.05.05-00.30.46:638][874]PIE: Server logged in
+[2022.05.05-00.30.46:639][874]PIE: Play in editor total start time 5.728 seconds.
+[2022.05.05-00.30.47:386][874]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.05-00.30.47:386][874]LogWorld: BeginTearingDown for /Game/Andrew_and_Chris/UEDPIE_0_Main_Map1
+[2022.05.05-00.30.47:390][874]LogWorld: UWorld::CleanupWorld for Main_Map1, bSessionEnded=true, bCleanupResources=true
+[2022.05.05-00.30.47:398][874]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.05-00.30.47:470][874]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.05-00.30.47:501][874]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.05-00.30.47:542][874]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.05-00.30.47:544][874]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.05-00.30.47:545][874]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.05-00.30.47:546][874]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.05-00.30.47:567][874]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2022.05.05-00.30.47:786][875]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2022.05.05-00.30.52:410][249]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.05-00.30.52:447][249]LogFMOD: Default sample rate = 48000
+[2022.05.05-00.30.52:447][249]LogFMOD: System sample rate = 48000
+[2022.05.05-00.30.52:447][249]LogFMOD: Matching system sample rate 48000
+[2022.05.05-00.30.52:494][249]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.05-00.30.52:494][249]PIE: New page: PIE session: Main_Map1 (May 4, 2022, 4:30:52 PM)
+[2022.05.05-00.30.52:510][249]LogPlayLevel: Creating play world package: /Game/Andrew_and_Chris/UEDPIE_0_Main_Map1
+[2022.05.05-00.30.53:369][249]LogPlayLevel: PIE: StaticDuplicateObject took: (0.858597s)
+[2022.05.05-00.30.53:369][249]LogAIModule: Creating AISystem for world Main_Map1
+[2022.05.05-00.30.53:370][249]LogPlayLevel: PIE: World Init took: (0.000993s)
+[2022.05.05-00.30.53:370][249]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Andrew_and_Chris/Main_Map1.Main_Map1 to /Game/Andrew_and_Chris/UEDPIE_0_Main_Map1.Main_Map1 (0.859732s)
+[2022.05.05-00.30.53:444][249]LogUObjectHash: Compacting FUObjectHashTables data took   4.40ms
+[2022.05.05-00.30.53:447][249]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.05.05-00.30.53:447][249]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.05-00.30.53:447][249]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.05-00.30.53:447][249]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.05-00.30.53:447][249]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.05-00.30.53:447][249]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.05-00.30.53:447][249]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.05-00.30.53:447][249]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.05-00.30.53:447][249]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.05-00.30.53:447][249]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.05-00.30.53:447][249]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.05-00.30.53:447][249]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.05-00.30.53:447][249]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.05-00.30.53:449][249]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.05-00.30.53:449][249]LogAudioMixer: Display: 1: FrontRight
+[2022.05.05-00.30.53:454][249]LogAudioMixer: Display: Using Audio Device Speakers (2- G733 Gaming Headset)
+[2022.05.05-00.30.53:454][249]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.05-00.30.53:454][249]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.05-00.30.53:454][249]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.05-00.30.53:454][249]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.05-00.30.53:454][249]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.05-00.30.53:454][249]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.05-00.30.53:455][249]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.05-00.30.53:455][249]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.05-00.30.53:455][249]LogInit: FAudioDevice initialized.
+[2022.05.05-00.30.53:455][249]LogAudio: Display: Audio Device (ID: 3) registered with world 'Main_Map1'.
+[2022.05.05-00.30.53:466][249]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.05.05-00.30.53:515][249]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.30.53:515][249]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.30.53:515][249]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.30.53:515][249]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.30.53:515][249]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.30.53:515][249]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.30.53:515][249]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.30.53:516][249]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.30.53:516][249]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.30.53:516][249]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.30.53:516][249]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.30.53:516][249]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.30.53:516][249]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.30.53:516][249]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.30.53:516][249]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.30.53:516][249]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.30.53:516][249]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.30.53:516][249]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.30.53:516][249]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.30.53:516][249]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.30.53:516][249]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.30.53:516][249]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.30.53:516][249]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.30.53:516][249]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.30.53:516][249]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.30.53:516][249]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.30.53:516][249]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.30.53:516][249]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.30.53:516][249]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.30.53:516][249]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.30.53:516][249]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.30.53:516][249]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.30.53:517][249]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.30.53:517][249]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.30.53:517][249]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.30.53:517][249]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.30.53:517][249]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.30.53:517][249]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.30.53:517][249]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.30.53:517][249]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.30.53:517][249]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.30.53:517][249]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.30.53:517][249]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.30.53:517][249]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.30.53:517][249]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.30.53:517][249]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.30.53:517][249]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.30.53:517][249]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.30.53:517][249]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.30.53:517][249]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.30.53:517][249]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.30.53:517][249]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.30.53:517][249]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.30.53:517][249]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.30.53:517][249]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.30.53:517][249]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.30.53:517][249]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.30.53:517][249]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.30.53:517][249]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.30.53:517][249]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.30.53:517][249]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.30.53:517][249]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.30.53:517][249]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.30.53:517][249]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.30.53:518][249]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.30.53:518][249]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.30.53:518][249]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.30.53:518][249]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.30.53:518][249]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.30.53:518][249]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.30.53:518][249]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.30.53:518][249]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.30.53:518][249]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.30.53:518][249]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.30.53:518][249]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.30.53:518][249]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.30.53:518][249]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.30.53:518][249]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.30.53:518][249]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.30.53:518][249]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.30.53:535][249]LogWorld: Bringing World /Game/Andrew_and_Chris/UEDPIE_0_Main_Map1.Main_Map1 up for play (max tick rate 0) at 2022.05.04-20.30.53
+[2022.05.05-00.30.53:549][249]LogWorld: Bringing up level for play took: 0.082783
+[2022.05.05-00.30.53:630][249]LogOnline: OSS: Creating online subsystem instance for: :Context_4
+[2022.05.05-00.30.54:475][249]LogScript: Warning: Runaway loop detected (over 1,000,000 iterations) - see log for stack trace
+	Grass2_Component_BP_C /Game/Andrew_and_Chris/UEDPIE_0_Main_Map1.Main_Map1:PersistentLevel.InstancedFoliageActor_0.Grass2_Component_BP_C_0
+	Function /Game/DynamicGrassLite/Blueprints/InternalLogic/INTERACTIVE_FoliageComp_BP.INTERACTIVE_FoliageComp_BP_C:ExecuteUbergraph_INTERACTIVE_FoliageComp_BP:086D
+[2022.05.05-00.30.54:475][249]PIE: Error: Infinite loop detected. Blueprint:  INTERACTIVE_FoliageComp_BP Function:  Outputs Call Stack:  Show
+[2022.05.05-00.30.54:501][249]PIE: Server logged in
+[2022.05.05-00.30.54:502][249]PIE: Play in editor total start time 2.084 seconds.
+[2022.05.05-00.30.55:096][249]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.05-00.30.55:096][249]LogWorld: BeginTearingDown for /Game/Andrew_and_Chris/UEDPIE_0_Main_Map1
+[2022.05.05-00.30.55:100][249]LogWorld: UWorld::CleanupWorld for Main_Map1, bSessionEnded=true, bCleanupResources=true
+[2022.05.05-00.30.55:111][249]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.05-00.30.55:133][249]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.05-00.30.55:147][249]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.05-00.30.55:172][249]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.05-00.30.55:190][249]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.05-00.30.55:191][249]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.05-00.30.55:193][249]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.05-00.30.55:247][249]LogUObjectHash: Compacting FUObjectHashTables data took   3.32ms
+[2022.05.05-00.30.55:438][250]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2022.05.05-00.31.00:359][605]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/DynamicGrassLite/Blueprints/InternalLogic/INTERACTIVE_FoliageComp_BP.INTERACTIVE_FoliageComp_BP
+[2022.05.05-00.31.13:607][147]BlueprintLog: New page: Compile INTERACTIVE_FoliageComp_BP
+[2022.05.05-00.31.14:402][147]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2022.05.05-00.31.21:311][639]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Engine/EditorBlueprintResources/StandardMacros.StandardMacros
+[2022.05.05-00.31.32:752][419]LogEditorTransaction: Undo Break Pin Links
+[2022.05.05-00.31.39:951][925]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/EditorBlueprintResources/StandardMacros" FILE="../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" SILENT=true
+[2022.05.05-00.31.40:115][925]LogSavePackage: Moving '../../../../../SafariSnapshot/Safari_Snapshot/Saved/StandardMacros1E92D3FB45C4BE24FB1BAC99DF7F868A.tmp' to '../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset'
+[2022.05.05-00.31.40:166][925]AssetCheck: New page: Asset Save: StandardMacros
+[2022.05.05-00.31.40:166][925]LogContentValidation: Display: Validating Blueprint /Engine/EditorBlueprintResources/StandardMacros.StandardMacros
+[2022.05.05-00.31.45:335][273]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.05-00.31.45:377][273]LogFMOD: Default sample rate = 48000
+[2022.05.05-00.31.45:377][273]LogFMOD: System sample rate = 48000
+[2022.05.05-00.31.45:377][273]LogFMOD: Matching system sample rate 48000
+[2022.05.05-00.31.45:425][273]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.05.05-00.31.45:461][273]LogPlayLevel: [PlayLevel] Compiling StandardMacros before play...
+[2022.05.05-00.31.45:461][273]LogPlayLevel: [PlayLevel]   Compiling ABP_Boar as a dependent...
+[2022.05.05-00.31.45:461][273]LogPlayLevel: [PlayLevel]   Compiling ABP_Crab as a dependent...
+[2022.05.05-00.31.45:461][273]LogPlayLevel: [PlayLevel]   Compiling ABP_Ibex as a dependent...
+[2022.05.05-00.31.45:461][273]LogPlayLevel: [PlayLevel]   Compiling ABP_Rhino as a dependent...
+[2022.05.05-00.31.45:461][273]LogPlayLevel: [PlayLevel]   Compiling ActorMacros as a dependent...
+[2022.05.05-00.31.45:461][273]LogPlayLevel: [PlayLevel]   Compiling Anim_Elephant as a dependent...
+[2022.05.05-00.31.45:461][273]LogPlayLevel: [PlayLevel]   Compiling Anim_Zebra as a dependent...
+[2022.05.05-00.31.45:461][273]LogPlayLevel: [PlayLevel]   Compiling AnimBP_KomodoDragon as a dependent...
+[2022.05.05-00.31.45:461][273]LogPlayLevel: [PlayLevel]   Compiling AnimBP_Viper as a dependent...
+[2022.05.05-00.31.45:461][273]LogPlayLevel: [PlayLevel]   Compiling BoxTurtle_AnimBP as a dependent...
+[2022.05.05-00.31.45:462][273]LogPlayLevel: [PlayLevel]   Compiling BP_Camera as a dependent...
+[2022.05.05-00.31.45:462][273]LogPlayLevel: [PlayLevel]   Compiling BP_GoodSky as a dependent...
+[2022.05.05-00.31.45:462][273]LogPlayLevel: [PlayLevel]   Compiling BP_Sky_Sphere as a dependent...
+[2022.05.05-00.31.45:463][273]LogPlayLevel: [PlayLevel]   Compiling GrassSpawnArea_BP as a dependent...
+[2022.05.05-00.31.45:464][273]LogPlayLevel: [PlayLevel]   Compiling InteractiveGrassManager_BP as a dependent...
+[2022.05.05-00.31.45:466][273]LogPlayLevel: [PlayLevel]   Compiling JumpFlood_Component2D as a dependent...
+[2022.05.05-00.31.45:467][273]LogPlayLevel: [PlayLevel]   Compiling LandscapeBrushLibrary as a dependent...
+[2022.05.05-00.31.45:467][273]LogPlayLevel: [PlayLevel]   Compiling LocationMarker as a dependent...
+[2022.05.05-00.31.45:470][273]LogPlayLevel: [PlayLevel]   Compiling Quest as a dependent...
+[2022.05.05-00.31.45:471][273]LogPlayLevel: [PlayLevel]   Compiling QuestMacros as a dependent...
+[2022.05.05-00.31.45:471][273]LogPlayLevel: [PlayLevel]   Compiling RenderToTextureFunctionLibrary as a dependent...
+[2022.05.05-00.31.45:471][273]LogPlayLevel: [PlayLevel]   Compiling RenderToTextureMacros as a dependent...
+[2022.05.05-00.31.45:472][273]LogPlayLevel: [PlayLevel]   Compiling SplineMeshChild as a dependent...
+[2022.05.05-00.31.45:472][273]LogPlayLevel: [PlayLevel]   Compiling SunSky as a dependent...
+[2022.05.05-00.31.45:477][273]LogPlayLevel: [PlayLevel]   Compiling LandmassBrushManager as a dependent...
+[2022.05.05-00.31.45:479][273]LogPlayLevel: [PlayLevel]   Compiling CustomBrush_Landmass as a dependent...
+[2022.05.05-00.31.45:479][273]LogPlayLevel: [PlayLevel]   Compiling CustomBrush_MaterialOnly as a dependent...
+[2022.05.05-00.31.45:479][273]LogPlayLevel: [PlayLevel]   Compiling FindClosestSpotWithTag as a dependent...
+[2022.05.05-00.31.45:482][273]LogPlayLevel: [PlayLevel]   Compiling FirstPersonCharacter as a dependent...
+[2022.05.05-00.31.45:482][273]LogPlayLevel: [PlayLevel]   Compiling GuideMasterAIBP as a dependent...
+[2022.05.05-00.31.45:482][273]LogPlayLevel: [PlayLevel]   Compiling InventoryWindow as a dependent...
+[2022.05.05-00.31.45:482][273]LogPlayLevel: [PlayLevel]   Compiling MainMenu_Widget as a dependent...
+[2022.05.05-00.31.45:483][273]LogPlayLevel: [PlayLevel]   Compiling Objectives_UI as a dependent...
+[2022.05.05-00.31.45:484][273]LogPlayLevel: [PlayLevel]   Compiling optionsingame as a dependent...
+[2022.05.05-00.31.45:484][273]LogPlayLevel: [PlayLevel]   Compiling pausemenu as a dependent...
+[2022.05.05-00.31.45:485][273]LogPlayLevel: [PlayLevel]   Compiling PhotoGallery as a dependent...
+[2022.05.05-00.31.45:485][273]LogPlayLevel: [PlayLevel]   Compiling Quest_UI as a dependent...
+[2022.05.05-00.31.45:486][273]LogPlayLevel: [PlayLevel]   Compiling QuestLog_UI as a dependent...
+[2022.05.05-00.31.45:486][273]LogPlayLevel: [PlayLevel]   Compiling QuestTurnIn_UI as a dependent...
+[2022.05.05-00.31.45:486][273]LogPlayLevel: [PlayLevel]   Compiling UpdateEnergyLevels as a dependent...
+[2022.05.05-00.31.45:488][273]LogPlayLevel: [PlayLevel]   Compiling INTERACTIVE_FoliageComp_BP as a dependent...
+[2022.05.05-00.31.46:144][273]LogActorComponent: RegisterComponentWithWorld: Owner belongs to a DEADCLASS
+[2022.05.05-00.31.46:605][273]LogScript: Warning: Attempted to access REINST_LandmassBrushManager_C_0 via property BrushManager, but REINST_LandmassBrushManager_C_0 is pending kill
+	CustomBrush_Landmass_C /Game/Andrew_and_Chris/Main_Map1.Main_Map1:PersistentLevel.CustomBrush_Canyon
+	Function /Landmass/Landscape/BlueprintBrushes/CustomBrush_Landmass.CustomBrush_Landmass_C:Brush Setup:0890
+[2022.05.05-00.31.46:605][273]LogScript: Warning: Attempted to access REINST_LandmassBrushManager_C_0 via property BrushManager, but REINST_LandmassBrushManager_C_0 is pending kill
+	CustomBrush_Landmass_C /Game/Andrew_and_Chris/Main_Map1.Main_Map1:PersistentLevel.CustomBrush_Canyon
+	Function /Landmass/Landscape/BlueprintBrushes/CustomBrush_Landmass.CustomBrush_Landmass_C:Brush Setup:19B3
+[2022.05.05-00.31.46:605][273]LogScript: Warning: Accessed None reading structure X
+	CustomBrush_Landmass_C /Game/Andrew_and_Chris/Main_Map1.Main_Map1:PersistentLevel.CustomBrush_Canyon
+	Function /Landmass/Landscape/BlueprintBrushes/CustomBrush_Landmass.CustomBrush_Landmass_C:Brush Setup:19C8
+[2022.05.05-00.31.46:605][273]LogScript: Warning: Attempted to access REINST_LandmassBrushManager_C_0 via property BrushManager, but REINST_LandmassBrushManager_C_0 is pending kill
+	CustomBrush_Landmass_C /Game/Andrew_and_Chris/Main_Map1.Main_Map1:PersistentLevel.CustomBrush_Canyon
+	Function /Landmass/Landscape/BlueprintBrushes/CustomBrush_Landmass.CustomBrush_Landmass_C:Brush Setup:19DB
+[2022.05.05-00.31.46:605][273]LogScript: Warning: Accessed None reading structure Y
+	CustomBrush_Landmass_C /Game/Andrew_and_Chris/Main_Map1.Main_Map1:PersistentLevel.CustomBrush_Canyon
+	Function /Landmass/Landscape/BlueprintBrushes/CustomBrush_Landmass.CustomBrush_Landmass_C:Brush Setup:19F0
+[2022.05.05-00.31.46:605][273]LogScript: Warning: Attempted to access REINST_LandmassBrushManager_C_0 via property BrushManager, but REINST_LandmassBrushManager_C_0 is pending kill
+	CustomBrush_Landmass_C /Game/Andrew_and_Chris/Main_Map1.Main_Map1:PersistentLevel.CustomBrush_Canyon
+	Function /Landmass/Landscape/BlueprintBrushes/CustomBrush_Landmass.CustomBrush_Landmass_C:Brush Setup:220A
+[2022.05.05-00.31.46:605][273]LogScript: Warning: Attempted to access REINST_LandmassBrushManager_C_0 via property BrushManager, but REINST_LandmassBrushManager_C_0 is pending kill
+	CustomBrush_Landmass_C /Game/Andrew_and_Chris/Main_Map1.Main_Map1:PersistentLevel.CustomBrush_Canyon
+	Function /Landmass/Landscape/BlueprintBrushes/CustomBrush_Landmass.CustomBrush_Landmass_C:Brush Setup:224F
+[2022.05.05-00.31.46:605][273]LogScript: Warning: Accessed None reading structure X
+	CustomBrush_Landmass_C /Game/Andrew_and_Chris/Main_Map1.Main_Map1:PersistentLevel.CustomBrush_Canyon
+	Function /Landmass/Landscape/BlueprintBrushes/CustomBrush_Landmass.CustomBrush_Landmass_C:Brush Setup:2264
+[2022.05.05-00.31.46:606][273]LogScript: Warning: Attempted to access REINST_LandmassBrushManager_C_0 via property BrushManager, but REINST_LandmassBrushManager_C_0 is pending kill
+	CustomBrush_Landmass_C /Game/Andrew_and_Chris/Main_Map1.Main_Map1:PersistentLevel.CustomBrush_Canyon
+	Function /Landmass/Landscape/BlueprintBrushes/CustomBrush_Landmass.CustomBrush_Landmass_C:Brush Setup:2277
+[2022.05.05-00.31.46:606][273]LogScript: Warning: Accessed None reading structure Y
+	CustomBrush_Landmass_C /Game/Andrew_and_Chris/Main_Map1.Main_Map1:PersistentLevel.CustomBrush_Canyon
+	Function /Landmass/Landscape/BlueprintBrushes/CustomBrush_Landmass.CustomBrush_Landmass_C:Brush Setup:228C
+[2022.05.05-00.31.46:606][273]LogScript: Warning: Attempted to access REINST_LandmassBrushManager_C_0 via property BrushManager, but REINST_LandmassBrushManager_C_0 is pending kill
+	CustomBrush_Landmass_C /Game/Andrew_and_Chris/Main_Map1.Main_Map1:PersistentLevel.CustomBrush_Canyon
+	Function /Landmass/Landscape/BlueprintBrushes/CustomBrush_Landmass.CustomBrush_Landmass_C:Brush Setup:23D0
+[2022.05.05-00.31.46:606][273]LogScript: Warning: Attempted to access REINST_LandmassBrushManager_C_0 via property BrushManager, but REINST_LandmassBrushManager_C_0 is pending kill
+	CustomBrush_Landmass_C /Game/Andrew_and_Chris/Main_Map1.Main_Map1:PersistentLevel.Landscape_CustomBrush_Landmass_C2_3
+	Function /Landmass/Landscape/BlueprintBrushes/CustomBrush_Landmass.CustomBrush_Landmass_C:Brush Setup:0890
+[2022.05.05-00.31.46:606][273]LogScript: Warning: Attempted to access REINST_LandmassBrushManager_C_0 via property BrushManager, but REINST_LandmassBrushManager_C_0 is pending kill
+	CustomBrush_Landmass_C /Game/Andrew_and_Chris/Main_Map1.Main_Map1:PersistentLevel.Landscape_CustomBrush_Landmass_C2_3
+	Function /Landmass/Landscape/BlueprintBrushes/CustomBrush_Landmass.CustomBrush_Landmass_C:Brush Setup:19B3
+[2022.05.05-00.31.46:606][273]LogScript: Warning: Accessed None reading structure X
+	CustomBrush_Landmass_C /Game/Andrew_and_Chris/Main_Map1.Main_Map1:PersistentLevel.Landscape_CustomBrush_Landmass_C2_3
+	Function /Landmass/Landscape/BlueprintBrushes/CustomBrush_Landmass.CustomBrush_Landmass_C:Brush Setup:19C8
+[2022.05.05-00.31.46:606][273]LogScript: Warning: Attempted to access REINST_LandmassBrushManager_C_0 via property BrushManager, but REINST_LandmassBrushManager_C_0 is pending kill
+	CustomBrush_Landmass_C /Game/Andrew_and_Chris/Main_Map1.Main_Map1:PersistentLevel.Landscape_CustomBrush_Landmass_C2_3
+	Function /Landmass/Landscape/BlueprintBrushes/CustomBrush_Landmass.CustomBrush_Landmass_C:Brush Setup:19DB
+[2022.05.05-00.31.46:606][273]LogScript: Warning: Accessed None reading structure Y
+	CustomBrush_Landmass_C /Game/Andrew_and_Chris/Main_Map1.Main_Map1:PersistentLevel.Landscape_CustomBrush_Landmass_C2_3
+	Function /Landmass/Landscape/BlueprintBrushes/CustomBrush_Landmass.CustomBrush_Landmass_C:Brush Setup:19F0
+[2022.05.05-00.31.46:606][273]LogScript: Warning: Attempted to access REINST_LandmassBrushManager_C_0 via property BrushManager, but REINST_LandmassBrushManager_C_0 is pending kill
+	CustomBrush_Landmass_C /Game/Andrew_and_Chris/Main_Map1.Main_Map1:PersistentLevel.Landscape_CustomBrush_Landmass_C2_3
+	Function /Landmass/Landscape/BlueprintBrushes/CustomBrush_Landmass.CustomBrush_Landmass_C:Brush Setup:220A
+[2022.05.05-00.31.46:606][273]LogScript: Warning: Attempted to access REINST_LandmassBrushManager_C_0 via property BrushManager, but REINST_LandmassBrushManager_C_0 is pending kill
+	CustomBrush_Landmass_C /Game/Andrew_and_Chris/Main_Map1.Main_Map1:PersistentLevel.Landscape_CustomBrush_Landmass_C2_3
+	Function /Landmass/Landscape/BlueprintBrushes/CustomBrush_Landmass.CustomBrush_Landmass_C:Brush Setup:224F
+[2022.05.05-00.31.46:606][273]LogScript: Warning: Accessed None reading structure X
+	CustomBrush_Landmass_C /Game/Andrew_and_Chris/Main_Map1.Main_Map1:PersistentLevel.Landscape_CustomBrush_Landmass_C2_3
+	Function /Landmass/Landscape/BlueprintBrushes/CustomBrush_Landmass.CustomBrush_Landmass_C:Brush Setup:2264
+[2022.05.05-00.31.46:606][273]LogScript: Warning: Attempted to access REINST_LandmassBrushManager_C_0 via property BrushManager, but REINST_LandmassBrushManager_C_0 is pending kill
+	CustomBrush_Landmass_C /Game/Andrew_and_Chris/Main_Map1.Main_Map1:PersistentLevel.Landscape_CustomBrush_Landmass_C2_3
+	Function /Landmass/Landscape/BlueprintBrushes/CustomBrush_Landmass.CustomBrush_Landmass_C:Brush Setup:2277
+[2022.05.05-00.31.46:606][273]LogScript: Warning: Accessed None reading structure Y
+	CustomBrush_Landmass_C /Game/Andrew_and_Chris/Main_Map1.Main_Map1:PersistentLevel.Landscape_CustomBrush_Landmass_C2_3
+	Function /Landmass/Landscape/BlueprintBrushes/CustomBrush_Landmass.CustomBrush_Landmass_C:Brush Setup:228C
+[2022.05.05-00.31.46:606][273]LogScript: Warning: Attempted to access REINST_LandmassBrushManager_C_0 via property BrushManager, but REINST_LandmassBrushManager_C_0 is pending kill
+	CustomBrush_Landmass_C /Game/Andrew_and_Chris/Main_Map1.Main_Map1:PersistentLevel.Landscape_CustomBrush_Landmass_C2_3
+	Function /Landmass/Landscape/BlueprintBrushes/CustomBrush_Landmass.CustomBrush_Landmass_C:Brush Setup:23D0
+[2022.05.05-00.31.46:606][273]LogScript: Warning: Attempted to access REINST_LandmassBrushManager_C_0 via property BrushManager, but REINST_LandmassBrushManager_C_0 is pending kill
+	CustomBrush_Landmass_C /Game/Andrew_and_Chris/Main_Map1.Main_Map1:PersistentLevel.Landscape_CustomBrush_Landmass_C3
+	Function /Landmass/Landscape/BlueprintBrushes/CustomBrush_Landmass.CustomBrush_Landmass_C:Brush Setup:0890
+[2022.05.05-00.31.46:607][273]LogScript: Warning: Attempted to access REINST_LandmassBrushManager_C_0 via property BrushManager, but REINST_LandmassBrushManager_C_0 is pending kill
+	CustomBrush_Landmass_C /Game/Andrew_and_Chris/Main_Map1.Main_Map1:PersistentLevel.Landscape_CustomBrush_Landmass_C3
+	Function /Landmass/Landscape/BlueprintBrushes/CustomBrush_Landmass.CustomBrush_Landmass_C:Brush Setup:19B3
+[2022.05.05-00.31.46:607][273]LogScript: Warning: Accessed None reading structure X
+	CustomBrush_Landmass_C /Game/Andrew_and_Chris/Main_Map1.Main_Map1:PersistentLevel.Landscape_CustomBrush_Landmass_C3
+	Function /Landmass/Landscape/BlueprintBrushes/CustomBrush_Landmass.CustomBrush_Landmass_C:Brush Setup:19C8
+[2022.05.05-00.31.46:607][273]LogScript: Warning: Attempted to access REINST_LandmassBrushManager_C_0 via property BrushManager, but REINST_LandmassBrushManager_C_0 is pending kill
+	CustomBrush_Landmass_C /Game/Andrew_and_Chris/Main_Map1.Main_Map1:PersistentLevel.Landscape_CustomBrush_Landmass_C3
+	Function /Landmass/Landscape/BlueprintBrushes/CustomBrush_Landmass.CustomBrush_Landmass_C:Brush Setup:19DB
+[2022.05.05-00.31.46:607][273]LogScript: Warning: Accessed None reading structure Y
+	CustomBrush_Landmass_C /Game/Andrew_and_Chris/Main_Map1.Main_Map1:PersistentLevel.Landscape_CustomBrush_Landmass_C3
+	Function /Landmass/Landscape/BlueprintBrushes/CustomBrush_Landmass.CustomBrush_Landmass_C:Brush Setup:19F0
+[2022.05.05-00.31.46:607][273]LogScript: Warning: Attempted to access REINST_LandmassBrushManager_C_0 via property BrushManager, but REINST_LandmassBrushManager_C_0 is pending kill
+	CustomBrush_Landmass_C /Game/Andrew_and_Chris/Main_Map1.Main_Map1:PersistentLevel.Landscape_CustomBrush_Landmass_C3
+	Function /Landmass/Landscape/BlueprintBrushes/CustomBrush_Landmass.CustomBrush_Landmass_C:Brush Setup:220A
+[2022.05.05-00.31.46:607][273]LogScript: Warning: Attempted to access REINST_LandmassBrushManager_C_0 via property BrushManager, but REINST_LandmassBrushManager_C_0 is pending kill
+	CustomBrush_Landmass_C /Game/Andrew_and_Chris/Main_Map1.Main_Map1:PersistentLevel.Landscape_CustomBrush_Landmass_C3
+	Function /Landmass/Landscape/BlueprintBrushes/CustomBrush_Landmass.CustomBrush_Landmass_C:Brush Setup:224F
+[2022.05.05-00.31.46:607][273]LogScript: Warning: Accessed None reading structure X
+	CustomBrush_Landmass_C /Game/Andrew_and_Chris/Main_Map1.Main_Map1:PersistentLevel.Landscape_CustomBrush_Landmass_C3
+	Function /Landmass/Landscape/BlueprintBrushes/CustomBrush_Landmass.CustomBrush_Landmass_C:Brush Setup:2264
+[2022.05.05-00.31.46:607][273]LogScript: Warning: Attempted to access REINST_LandmassBrushManager_C_0 via property BrushManager, but REINST_LandmassBrushManager_C_0 is pending kill
+	CustomBrush_Landmass_C /Game/Andrew_and_Chris/Main_Map1.Main_Map1:PersistentLevel.Landscape_CustomBrush_Landmass_C3
+	Function /Landmass/Landscape/BlueprintBrushes/CustomBrush_Landmass.CustomBrush_Landmass_C:Brush Setup:2277
+[2022.05.05-00.31.46:607][273]LogScript: Warning: Accessed None reading structure Y
+	CustomBrush_Landmass_C /Game/Andrew_and_Chris/Main_Map1.Main_Map1:PersistentLevel.Landscape_CustomBrush_Landmass_C3
+	Function /Landmass/Landscape/BlueprintBrushes/CustomBrush_Landmass.CustomBrush_Landmass_C:Brush Setup:228C
+[2022.05.05-00.31.46:607][273]LogScript: Warning: Attempted to access REINST_LandmassBrushManager_C_0 via property BrushManager, but REINST_LandmassBrushManager_C_0 is pending kill
+	CustomBrush_Landmass_C /Game/Andrew_and_Chris/Main_Map1.Main_Map1:PersistentLevel.Landscape_CustomBrush_Landmass_C3
+	Function /Landmass/Landscape/BlueprintBrushes/CustomBrush_Landmass.CustomBrush_Landmass_C:Brush Setup:23D0
+[2022.05.05-00.31.46:607][273]LogScript: Warning: Attempted to access REINST_LandmassBrushManager_C_0 via property BrushManager, but REINST_LandmassBrushManager_C_0 is pending kill
+	CustomBrush_Landmass_C /Game/Andrew_and_Chris/Main_Map1.Main_Map1:PersistentLevel.Landscape_CustomBrush_Landmass_C_0
+	Function /Landmass/Landscape/BlueprintBrushes/CustomBrush_Landmass.CustomBrush_Landmass_C:Brush Setup:0890
+[2022.05.05-00.31.46:607][273]LogScript: Warning: Attempted to access REINST_LandmassBrushManager_C_0 via property BrushManager, but REINST_LandmassBrushManager_C_0 is pending kill
+	CustomBrush_Landmass_C /Game/Andrew_and_Chris/Main_Map1.Main_Map1:PersistentLevel.Landscape_CustomBrush_Landmass_C_0
+	Function /Landmass/Landscape/BlueprintBrushes/CustomBrush_Landmass.CustomBrush_Landmass_C:Brush Setup:19B3
+[2022.05.05-00.31.46:607][273]LogScript: Warning: Accessed None reading structure X
+	CustomBrush_Landmass_C /Game/Andrew_and_Chris/Main_Map1.Main_Map1:PersistentLevel.Landscape_CustomBrush_Landmass_C_0
+	Function /Landmass/Landscape/BlueprintBrushes/CustomBrush_Landmass.CustomBrush_Landmass_C:Brush Setup:19C8
+[2022.05.05-00.31.46:607][273]LogScript: Warning: Attempted to access REINST_LandmassBrushManager_C_0 via property BrushManager, but REINST_LandmassBrushManager_C_0 is pending kill
+	CustomBrush_Landmass_C /Game/Andrew_and_Chris/Main_Map1.Main_Map1:PersistentLevel.Landscape_CustomBrush_Landmass_C_0
+	Function /Landmass/Landscape/BlueprintBrushes/CustomBrush_Landmass.CustomBrush_Landmass_C:Brush Setup:19DB
+[2022.05.05-00.31.46:607][273]LogScript: Warning: Accessed None reading structure Y
+	CustomBrush_Landmass_C /Game/Andrew_and_Chris/Main_Map1.Main_Map1:PersistentLevel.Landscape_CustomBrush_Landmass_C_0
+	Function /Landmass/Landscape/BlueprintBrushes/CustomBrush_Landmass.CustomBrush_Landmass_C:Brush Setup:19F0
+[2022.05.05-00.31.46:608][273]LogScript: Warning: Attempted to access REINST_LandmassBrushManager_C_0 via property BrushManager, but REINST_LandmassBrushManager_C_0 is pending kill
+	CustomBrush_Landmass_C /Game/Andrew_and_Chris/Main_Map1.Main_Map1:PersistentLevel.Landscape_CustomBrush_Landmass_C_0
+	Function /Landmass/Landscape/BlueprintBrushes/CustomBrush_Landmass.CustomBrush_Landmass_C:Brush Setup:220A
+[2022.05.05-00.31.46:608][273]LogScript: Warning: Attempted to access REINST_LandmassBrushManager_C_0 via property BrushManager, but REINST_LandmassBrushManager_C_0 is pending kill
+	CustomBrush_Landmass_C /Game/Andrew_and_Chris/Main_Map1.Main_Map1:PersistentLevel.Landscape_CustomBrush_Landmass_C_0
+	Function /Landmass/Landscape/BlueprintBrushes/CustomBrush_Landmass.CustomBrush_Landmass_C:Brush Setup:224F
+[2022.05.05-00.31.46:608][273]LogScript: Warning: Accessed None reading structure X
+	CustomBrush_Landmass_C /Game/Andrew_and_Chris/Main_Map1.Main_Map1:PersistentLevel.Landscape_CustomBrush_Landmass_C_0
+	Function /Landmass/Landscape/BlueprintBrushes/CustomBrush_Landmass.CustomBrush_Landmass_C:Brush Setup:2264
+[2022.05.05-00.31.46:608][273]LogScript: Warning: Attempted to access REINST_LandmassBrushManager_C_0 via property BrushManager, but REINST_LandmassBrushManager_C_0 is pending kill
+	CustomBrush_Landmass_C /Game/Andrew_and_Chris/Main_Map1.Main_Map1:PersistentLevel.Landscape_CustomBrush_Landmass_C_0
+	Function /Landmass/Landscape/BlueprintBrushes/CustomBrush_Landmass.CustomBrush_Landmass_C:Brush Setup:2277
+[2022.05.05-00.31.46:608][273]LogScript: Warning: Accessed None reading structure Y
+	CustomBrush_Landmass_C /Game/Andrew_and_Chris/Main_Map1.Main_Map1:PersistentLevel.Landscape_CustomBrush_Landmass_C_0
+	Function /Landmass/Landscape/BlueprintBrushes/CustomBrush_Landmass.CustomBrush_Landmass_C:Brush Setup:228C
+[2022.05.05-00.31.46:608][273]LogScript: Warning: Attempted to access REINST_LandmassBrushManager_C_0 via property BrushManager, but REINST_LandmassBrushManager_C_0 is pending kill
+	CustomBrush_Landmass_C /Game/Andrew_and_Chris/Main_Map1.Main_Map1:PersistentLevel.Landscape_CustomBrush_Landmass_C_0
+	Function /Landmass/Landscape/BlueprintBrushes/CustomBrush_Landmass.CustomBrush_Landmass_C:Brush Setup:23D0
+[2022.05.05-00.31.46:608][273]LogScript: Warning: Attempted to access REINST_LandmassBrushManager_C_0 via property BrushManager, but REINST_LandmassBrushManager_C_0 is pending kill
+	CustomBrush_Landmass_C /Game/Andrew_and_Chris/Main_Map1.Main_Map1:PersistentLevel.Landscape_CustomBrush_Landmass_C_1
+	Function /Landmass/Landscape/BlueprintBrushes/CustomBrush_Landmass.CustomBrush_Landmass_C:Brush Setup:0890
+[2022.05.05-00.31.46:608][273]LogScript: Warning: Attempted to access REINST_LandmassBrushManager_C_0 via property BrushManager, but REINST_LandmassBrushManager_C_0 is pending kill
+	CustomBrush_Landmass_C /Game/Andrew_and_Chris/Main_Map1.Main_Map1:PersistentLevel.Landscape_CustomBrush_Landmass_C_1
+	Function /Landmass/Landscape/BlueprintBrushes/CustomBrush_Landmass.CustomBrush_Landmass_C:Brush Setup:19B3
+[2022.05.05-00.31.46:608][273]LogScript: Warning: Accessed None reading structure X
+	CustomBrush_Landmass_C /Game/Andrew_and_Chris/Main_Map1.Main_Map1:PersistentLevel.Landscape_CustomBrush_Landmass_C_1
+	Function /Landmass/Landscape/BlueprintBrushes/CustomBrush_Landmass.CustomBrush_Landmass_C:Brush Setup:19C8
+[2022.05.05-00.31.46:608][273]LogScript: Warning: Attempted to access REINST_LandmassBrushManager_C_0 via property BrushManager, but REINST_LandmassBrushManager_C_0 is pending kill
+	CustomBrush_Landmass_C /Game/Andrew_and_Chris/Main_Map1.Main_Map1:PersistentLevel.Landscape_CustomBrush_Landmass_C_1
+	Function /Landmass/Landscape/BlueprintBrushes/CustomBrush_Landmass.CustomBrush_Landmass_C:Brush Setup:19DB
+[2022.05.05-00.31.46:608][273]LogScript: Warning: Accessed None reading structure Y
+	CustomBrush_Landmass_C /Game/Andrew_and_Chris/Main_Map1.Main_Map1:PersistentLevel.Landscape_CustomBrush_Landmass_C_1
+	Function /Landmass/Landscape/BlueprintBrushes/CustomBrush_Landmass.CustomBrush_Landmass_C:Brush Setup:19F0
+[2022.05.05-00.31.46:608][273]LogScript: Warning: Attempted to access REINST_LandmassBrushManager_C_0 via property BrushManager, but REINST_LandmassBrushManager_C_0 is pending kill
+	CustomBrush_Landmass_C /Game/Andrew_and_Chris/Main_Map1.Main_Map1:PersistentLevel.Landscape_CustomBrush_Landmass_C_1
+	Function /Landmass/Landscape/BlueprintBrushes/CustomBrush_Landmass.CustomBrush_Landmass_C:Brush Setup:220A
+[2022.05.05-00.31.46:608][273]LogScript: Warning: Attempted to access REINST_LandmassBrushManager_C_0 via property BrushManager, but REINST_LandmassBrushManager_C_0 is pending kill
+	CustomBrush_Landmass_C /Game/Andrew_and_Chris/Main_Map1.Main_Map1:PersistentLevel.Landscape_CustomBrush_Landmass_C_1
+	Function /Landmass/Landscape/BlueprintBrushes/CustomBrush_Landmass.CustomBrush_Landmass_C:Brush Setup:224F
+[2022.05.05-00.31.46:608][273]LogScript: Warning: Accessed None reading structure X
+	CustomBrush_Landmass_C /Game/Andrew_and_Chris/Main_Map1.Main_Map1:PersistentLevel.Landscape_CustomBrush_Landmass_C_1
+	Function /Landmass/Landscape/BlueprintBrushes/CustomBrush_Landmass.CustomBrush_Landmass_C:Brush Setup:2264
+[2022.05.05-00.31.46:608][273]LogScript: Warning: Attempted to access REINST_LandmassBrushManager_C_0 via property BrushManager, but REINST_LandmassBrushManager_C_0 is pending kill
+	CustomBrush_Landmass_C /Game/Andrew_and_Chris/Main_Map1.Main_Map1:PersistentLevel.Landscape_CustomBrush_Landmass_C_1
+	Function /Landmass/Landscape/BlueprintBrushes/CustomBrush_Landmass.CustomBrush_Landmass_C:Brush Setup:2277
+[2022.05.05-00.31.46:608][273]LogScript: Warning: Accessed None reading structure Y
+	CustomBrush_Landmass_C /Game/Andrew_and_Chris/Main_Map1.Main_Map1:PersistentLevel.Landscape_CustomBrush_Landmass_C_1
+	Function /Landmass/Landscape/BlueprintBrushes/CustomBrush_Landmass.CustomBrush_Landmass_C:Brush Setup:228C
+[2022.05.05-00.31.46:608][273]LogScript: Warning: Attempted to access REINST_LandmassBrushManager_C_0 via property BrushManager, but REINST_LandmassBrushManager_C_0 is pending kill
+	CustomBrush_Landmass_C /Game/Andrew_and_Chris/Main_Map1.Main_Map1:PersistentLevel.Landscape_CustomBrush_Landmass_C_1
+	Function /Landmass/Landscape/BlueprintBrushes/CustomBrush_Landmass.CustomBrush_Landmass_C:Brush Setup:23D0
+[2022.05.05-00.31.46:609][273]LogScript: Warning: Attempted to access REINST_LandmassBrushManager_C_0 via property BrushManager, but REINST_LandmassBrushManager_C_0 is pending kill
+	CustomBrush_Landmass_C /Game/Andrew_and_Chris/Main_Map1.Main_Map1:PersistentLevel.Landscape_CustomBrush_Landmass_C_11
+	Function /Landmass/Landscape/BlueprintBrushes/CustomBrush_Landmass.CustomBrush_Landmass_C:Brush Setup:0890
+[2022.05.05-00.31.46:609][273]LogScript: Warning: Attempted to access REINST_LandmassBrushManager_C_0 via property BrushManager, but REINST_LandmassBrushManager_C_0 is pending kill
+	CustomBrush_Landmass_C /Game/Andrew_and_Chris/Main_Map1.Main_Map1:PersistentLevel.Landscape_CustomBrush_Landmass_C_11
+	Function /Landmass/Landscape/BlueprintBrushes/CustomBrush_Landmass.CustomBrush_Landmass_C:Brush Setup:19B3
+[2022.05.05-00.31.46:609][273]LogScript: Warning: Accessed None reading structure X
+	CustomBrush_Landmass_C /Game/Andrew_and_Chris/Main_Map1.Main_Map1:PersistentLevel.Landscape_CustomBrush_Landmass_C_11
+	Function /Landmass/Landscape/BlueprintBrushes/CustomBrush_Landmass.CustomBrush_Landmass_C:Brush Setup:19C8
+[2022.05.05-00.31.46:609][273]LogScript: Warning: Attempted to access REINST_LandmassBrushManager_C_0 via property BrushManager, but REINST_LandmassBrushManager_C_0 is pending kill
+	CustomBrush_Landmass_C /Game/Andrew_and_Chris/Main_Map1.Main_Map1:PersistentLevel.Landscape_CustomBrush_Landmass_C_11
+	Function /Landmass/Landscape/BlueprintBrushes/CustomBrush_Landmass.CustomBrush_Landmass_C:Brush Setup:19DB
+[2022.05.05-00.31.46:609][273]LogScript: Warning: Accessed None reading structure Y
+	CustomBrush_Landmass_C /Game/Andrew_and_Chris/Main_Map1.Main_Map1:PersistentLevel.Landscape_CustomBrush_Landmass_C_11
+	Function /Landmass/Landscape/BlueprintBrushes/CustomBrush_Landmass.CustomBrush_Landmass_C:Brush Setup:19F0
+[2022.05.05-00.31.46:609][273]LogScript: Warning: Attempted to access REINST_LandmassBrushManager_C_0 via property BrushManager, but REINST_LandmassBrushManager_C_0 is pending kill
+	CustomBrush_Landmass_C /Game/Andrew_and_Chris/Main_Map1.Main_Map1:PersistentLevel.Landscape_CustomBrush_Landmass_C_11
+	Function /Landmass/Landscape/BlueprintBrushes/CustomBrush_Landmass.CustomBrush_Landmass_C:Brush Setup:220A
+[2022.05.05-00.31.46:609][273]LogScript: Warning: Attempted to access REINST_LandmassBrushManager_C_0 via property BrushManager, but REINST_LandmassBrushManager_C_0 is pending kill
+	CustomBrush_Landmass_C /Game/Andrew_and_Chris/Main_Map1.Main_Map1:PersistentLevel.Landscape_CustomBrush_Landmass_C_11
+	Function /Landmass/Landscape/BlueprintBrushes/CustomBrush_Landmass.CustomBrush_Landmass_C:Brush Setup:224F
+[2022.05.05-00.31.46:609][273]LogScript: Warning: Accessed None reading structure X
+	CustomBrush_Landmass_C /Game/Andrew_and_Chris/Main_Map1.Main_Map1:PersistentLevel.Landscape_CustomBrush_Landmass_C_11
+	Function /Landmass/Landscape/BlueprintBrushes/CustomBrush_Landmass.CustomBrush_Landmass_C:Brush Setup:2264
+[2022.05.05-00.31.46:609][273]LogScript: Warning: Attempted to access REINST_LandmassBrushManager_C_0 via property BrushManager, but REINST_LandmassBrushManager_C_0 is pending kill
+	CustomBrush_Landmass_C /Game/Andrew_and_Chris/Main_Map1.Main_Map1:PersistentLevel.Landscape_CustomBrush_Landmass_C_11
+	Function /Landmass/Landscape/BlueprintBrushes/CustomBrush_Landmass.CustomBrush_Landmass_C:Brush Setup:2277
+[2022.05.05-00.31.46:609][273]LogScript: Warning: Accessed None reading structure Y
+	CustomBrush_Landmass_C /Game/Andrew_and_Chris/Main_Map1.Main_Map1:PersistentLevel.Landscape_CustomBrush_Landmass_C_11
+	Function /Landmass/Landscape/BlueprintBrushes/CustomBrush_Landmass.CustomBrush_Landmass_C:Brush Setup:228C
+[2022.05.05-00.31.46:609][273]LogScript: Warning: Attempted to access REINST_LandmassBrushManager_C_0 via property BrushManager, but REINST_LandmassBrushManager_C_0 is pending kill
+	CustomBrush_Landmass_C /Game/Andrew_and_Chris/Main_Map1.Main_Map1:PersistentLevel.Landscape_CustomBrush_Landmass_C_11
+	Function /Landmass/Landscape/BlueprintBrushes/CustomBrush_Landmass.CustomBrush_Landmass_C:Brush Setup:23D0
+[2022.05.05-00.31.46:609][273]LogScript: Warning: Attempted to access REINST_LandmassBrushManager_C_0 via property BrushManager, but REINST_LandmassBrushManager_C_0 is pending kill
+	CustomBrush_Landmass_C /Game/Andrew_and_Chris/Main_Map1.Main_Map1:PersistentLevel.Landscape_CustomBrush_Landmass_C_2
+	Function /Landmass/Landscape/BlueprintBrushes/CustomBrush_Landmass.CustomBrush_Landmass_C:Brush Setup:0890
+[2022.05.05-00.31.46:609][273]LogScript: Warning: Attempted to access REINST_LandmassBrushManager_C_0 via property BrushManager, but REINST_LandmassBrushManager_C_0 is pending kill
+	CustomBrush_Landmass_C /Game/Andrew_and_Chris/Main_Map1.Main_Map1:PersistentLevel.Landscape_CustomBrush_Landmass_C_2
+	Function /Landmass/Landscape/BlueprintBrushes/CustomBrush_Landmass.CustomBrush_Landmass_C:Brush Setup:19B3
+[2022.05.05-00.31.46:609][273]LogScript: Warning: Accessed None reading structure X
+	CustomBrush_Landmass_C /Game/Andrew_and_Chris/Main_Map1.Main_Map1:PersistentLevel.Landscape_CustomBrush_Landmass_C_2
+	Function /Landmass/Landscape/BlueprintBrushes/CustomBrush_Landmass.CustomBrush_Landmass_C:Brush Setup:19C8
+[2022.05.05-00.31.46:609][273]LogScript: Warning: Attempted to access REINST_LandmassBrushManager_C_0 via property BrushManager, but REINST_LandmassBrushManager_C_0 is pending kill
+	CustomBrush_Landmass_C /Game/Andrew_and_Chris/Main_Map1.Main_Map1:PersistentLevel.Landscape_CustomBrush_Landmass_C_2
+	Function /Landmass/Landscape/BlueprintBrushes/CustomBrush_Landmass.CustomBrush_Landmass_C:Brush Setup:19DB
+[2022.05.05-00.31.46:609][273]LogScript: Warning: Accessed None reading structure Y
+	CustomBrush_Landmass_C /Game/Andrew_and_Chris/Main_Map1.Main_Map1:PersistentLevel.Landscape_CustomBrush_Landmass_C_2
+	Function /Landmass/Landscape/BlueprintBrushes/CustomBrush_Landmass.CustomBrush_Landmass_C:Brush Setup:19F0
+[2022.05.05-00.31.46:609][273]LogScript: Warning: Attempted to access REINST_LandmassBrushManager_C_0 via property BrushManager, but REINST_LandmassBrushManager_C_0 is pending kill
+	CustomBrush_Landmass_C /Game/Andrew_and_Chris/Main_Map1.Main_Map1:PersistentLevel.Landscape_CustomBrush_Landmass_C_2
+	Function /Landmass/Landscape/BlueprintBrushes/CustomBrush_Landmass.CustomBrush_Landmass_C:Brush Setup:220A
+[2022.05.05-00.31.46:609][273]LogScript: Warning: Attempted to access REINST_LandmassBrushManager_C_0 via property BrushManager, but REINST_LandmassBrushManager_C_0 is pending kill
+	CustomBrush_Landmass_C /Game/Andrew_and_Chris/Main_Map1.Main_Map1:PersistentLevel.Landscape_CustomBrush_Landmass_C_2
+	Function /Landmass/Landscape/BlueprintBrushes/CustomBrush_Landmass.CustomBrush_Landmass_C:Brush Setup:224F
+[2022.05.05-00.31.46:609][273]LogScript: Warning: Accessed None reading structure X
+	CustomBrush_Landmass_C /Game/Andrew_and_Chris/Main_Map1.Main_Map1:PersistentLevel.Landscape_CustomBrush_Landmass_C_2
+	Function /Landmass/Landscape/BlueprintBrushes/CustomBrush_Landmass.CustomBrush_Landmass_C:Brush Setup:2264
+[2022.05.05-00.31.46:609][273]LogScript: Warning: Attempted to access REINST_LandmassBrushManager_C_0 via property BrushManager, but REINST_LandmassBrushManager_C_0 is pending kill
+	CustomBrush_Landmass_C /Game/Andrew_and_Chris/Main_Map1.Main_Map1:PersistentLevel.Landscape_CustomBrush_Landmass_C_2
+	Function /Landmass/Landscape/BlueprintBrushes/CustomBrush_Landmass.CustomBrush_Landmass_C:Brush Setup:2277
+[2022.05.05-00.31.46:610][273]LogScript: Warning: Accessed None reading structure Y
+	CustomBrush_Landmass_C /Game/Andrew_and_Chris/Main_Map1.Main_Map1:PersistentLevel.Landscape_CustomBrush_Landmass_C_2
+	Function /Landmass/Landscape/BlueprintBrushes/CustomBrush_Landmass.CustomBrush_Landmass_C:Brush Setup:228C
+[2022.05.05-00.31.46:610][273]LogScript: Warning: Attempted to access REINST_LandmassBrushManager_C_0 via property BrushManager, but REINST_LandmassBrushManager_C_0 is pending kill
+	CustomBrush_Landmass_C /Game/Andrew_and_Chris/Main_Map1.Main_Map1:PersistentLevel.Landscape_CustomBrush_Landmass_C_2
+	Function /Landmass/Landscape/BlueprintBrushes/CustomBrush_Landmass.CustomBrush_Landmass_C:Brush Setup:23D0
+[2022.05.05-00.31.46:610][273]LogScript: Warning: Attempted to access REINST_LandmassBrushManager_C_0 via property BrushManager, but REINST_LandmassBrushManager_C_0 is pending kill
+	CustomBrush_Landmass_C /Game/Andrew_and_Chris/Main_Map1.Main_Map1:PersistentLevel.Landscape_CustomBrush_Landmass_C_9
+	Function /Landmass/Landscape/BlueprintBrushes/CustomBrush_Landmass.CustomBrush_Landmass_C:Brush Setup:0890
+[2022.05.05-00.31.46:610][273]LogScript: Warning: Attempted to access REINST_LandmassBrushManager_C_0 via property BrushManager, but REINST_LandmassBrushManager_C_0 is pending kill
+	CustomBrush_Landmass_C /Game/Andrew_and_Chris/Main_Map1.Main_Map1:PersistentLevel.Landscape_CustomBrush_Landmass_C_9
+	Function /Landmass/Landscape/BlueprintBrushes/CustomBrush_Landmass.CustomBrush_Landmass_C:Brush Setup:19B3
+[2022.05.05-00.31.46:610][273]LogScript: Warning: Accessed None reading structure X
+	CustomBrush_Landmass_C /Game/Andrew_and_Chris/Main_Map1.Main_Map1:PersistentLevel.Landscape_CustomBrush_Landmass_C_9
+	Function /Landmass/Landscape/BlueprintBrushes/CustomBrush_Landmass.CustomBrush_Landmass_C:Brush Setup:19C8
+[2022.05.05-00.31.46:610][273]LogScript: Warning: Attempted to access REINST_LandmassBrushManager_C_0 via property BrushManager, but REINST_LandmassBrushManager_C_0 is pending kill
+	CustomBrush_Landmass_C /Game/Andrew_and_Chris/Main_Map1.Main_Map1:PersistentLevel.Landscape_CustomBrush_Landmass_C_9
+	Function /Landmass/Landscape/BlueprintBrushes/CustomBrush_Landmass.CustomBrush_Landmass_C:Brush Setup:19DB
+[2022.05.05-00.31.46:610][273]LogScript: Warning: Accessed None reading structure Y
+	CustomBrush_Landmass_C /Game/Andrew_and_Chris/Main_Map1.Main_Map1:PersistentLevel.Landscape_CustomBrush_Landmass_C_9
+	Function /Landmass/Landscape/BlueprintBrushes/CustomBrush_Landmass.CustomBrush_Landmass_C:Brush Setup:19F0
+[2022.05.05-00.31.46:610][273]LogScript: Warning: Attempted to access REINST_LandmassBrushManager_C_0 via property BrushManager, but REINST_LandmassBrushManager_C_0 is pending kill
+	CustomBrush_Landmass_C /Game/Andrew_and_Chris/Main_Map1.Main_Map1:PersistentLevel.Landscape_CustomBrush_Landmass_C_9
+	Function /Landmass/Landscape/BlueprintBrushes/CustomBrush_Landmass.CustomBrush_Landmass_C:Brush Setup:220A
+[2022.05.05-00.31.46:610][273]LogScript: Warning: Attempted to access REINST_LandmassBrushManager_C_0 via property BrushManager, but REINST_LandmassBrushManager_C_0 is pending kill
+	CustomBrush_Landmass_C /Game/Andrew_and_Chris/Main_Map1.Main_Map1:PersistentLevel.Landscape_CustomBrush_Landmass_C_9
+	Function /Landmass/Landscape/BlueprintBrushes/CustomBrush_Landmass.CustomBrush_Landmass_C:Brush Setup:224F
+[2022.05.05-00.31.46:610][273]LogScript: Warning: Accessed None reading structure X
+	CustomBrush_Landmass_C /Game/Andrew_and_Chris/Main_Map1.Main_Map1:PersistentLevel.Landscape_CustomBrush_Landmass_C_9
+	Function /Landmass/Landscape/BlueprintBrushes/CustomBrush_Landmass.CustomBrush_Landmass_C:Brush Setup:2264
+[2022.05.05-00.31.46:610][273]LogScript: Warning: Attempted to access REINST_LandmassBrushManager_C_0 via property BrushManager, but REINST_LandmassBrushManager_C_0 is pending kill
+	CustomBrush_Landmass_C /Game/Andrew_and_Chris/Main_Map1.Main_Map1:PersistentLevel.Landscape_CustomBrush_Landmass_C_9
+	Function /Landmass/Landscape/BlueprintBrushes/CustomBrush_Landmass.CustomBrush_Landmass_C:Brush Setup:2277
+[2022.05.05-00.31.46:610][273]LogScript: Warning: Accessed None reading structure Y
+	CustomBrush_Landmass_C /Game/Andrew_and_Chris/Main_Map1.Main_Map1:PersistentLevel.Landscape_CustomBrush_Landmass_C_9
+	Function /Landmass/Landscape/BlueprintBrushes/CustomBrush_Landmass.CustomBrush_Landmass_C:Brush Setup:228C
+[2022.05.05-00.31.46:610][273]LogScript: Warning: Attempted to access REINST_LandmassBrushManager_C_0 via property BrushManager, but REINST_LandmassBrushManager_C_0 is pending kill
+	CustomBrush_Landmass_C /Game/Andrew_and_Chris/Main_Map1.Main_Map1:PersistentLevel.Landscape_CustomBrush_Landmass_C_9
+	Function /Landmass/Landscape/BlueprintBrushes/CustomBrush_Landmass.CustomBrush_Landmass_C:Brush Setup:23D0
+[2022.05.05-00.31.47:019][273]LogUObjectHash: Compacting FUObjectHashTables data took   4.59ms
+[2022.05.05-00.31.47:025][273]LogPlayLevel: PlayLevel: Blueprint regeneration took 1600 ms (42 blueprints)
+[2022.05.05-00.31.47:025][273]PIE: New page: PIE session: Main_Map1 (May 4, 2022, 4:31:47 PM)
+[2022.05.05-00.31.47:027][273]LogPlayLevel: Creating play world package: /Game/Andrew_and_Chris/UEDPIE_0_Main_Map1
+[2022.05.05-00.31.47:875][273]LogPlayLevel: PIE: StaticDuplicateObject took: (0.848881s)
+[2022.05.05-00.31.47:876][273]LogAIModule: Creating AISystem for world Main_Map1
+[2022.05.05-00.31.47:877][273]LogPlayLevel: PIE: World Init took: (0.001078s)
+[2022.05.05-00.31.47:877][273]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Andrew_and_Chris/Main_Map1.Main_Map1 to /Game/Andrew_and_Chris/UEDPIE_0_Main_Map1.Main_Map1 (0.850091s)
+[2022.05.05-00.31.47:911][273]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2022.05.05-00.31.47:912][273]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.05.05-00.31.47:912][273]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.05-00.31.47:912][273]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.05-00.31.47:912][273]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.05-00.31.47:912][273]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.05-00.31.47:912][273]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.05-00.31.47:912][273]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.05-00.31.47:912][273]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.05-00.31.47:912][273]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.05-00.31.47:913][273]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.05-00.31.47:913][273]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.05-00.31.47:913][273]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.05-00.31.47:913][273]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.05-00.31.47:915][273]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.05-00.31.47:915][273]LogAudioMixer: Display: 1: FrontRight
+[2022.05.05-00.31.47:921][273]LogAudioMixer: Display: Using Audio Device Speakers (2- G733 Gaming Headset)
+[2022.05.05-00.31.47:921][273]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.05-00.31.47:921][273]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.05-00.31.47:921][273]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.05-00.31.47:922][273]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.05-00.31.47:922][273]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.05-00.31.47:922][273]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.05-00.31.47:923][273]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.05-00.31.47:923][273]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.05-00.31.47:923][273]LogInit: FAudioDevice initialized.
+[2022.05.05-00.31.47:923][273]LogAudio: Display: Audio Device (ID: 4) registered with world 'Main_Map1'.
+[2022.05.05-00.31.47:934][273]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.05.05-00.31.47:985][273]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.31.47:985][273]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.31.47:985][273]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.31.47:985][273]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.31.47:985][273]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.31.47:985][273]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.31.47:985][273]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.31.47:985][273]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.31.47:985][273]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.31.47:985][273]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.31.47:985][273]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.31.47:985][273]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.31.47:985][273]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.31.47:985][273]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.31.47:985][273]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.31.47:985][273]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.31.47:986][273]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.31.47:986][273]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.31.47:986][273]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.31.47:986][273]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.31.47:986][273]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.31.47:986][273]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.31.47:986][273]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.31.47:986][273]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.31.47:986][273]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.31.47:986][273]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.31.47:986][273]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.31.47:986][273]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.31.47:986][273]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.31.47:986][273]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.31.47:986][273]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.31.47:986][273]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.31.47:986][273]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.31.47:986][273]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.31.47:986][273]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.31.47:986][273]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.31.47:986][273]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.31.47:986][273]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.31.47:986][273]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.31.47:986][273]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.31.47:986][273]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.31.47:986][273]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.31.47:986][273]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.31.47:986][273]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.31.47:986][273]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.31.47:986][273]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.31.47:986][273]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.31.47:986][273]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.31.47:987][273]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.31.47:987][273]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.31.47:987][273]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.31.47:987][273]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.31.47:987][273]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.31.47:987][273]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.31.47:987][273]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.31.47:987][273]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.31.47:987][273]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.31.47:987][273]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.31.47:987][273]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.31.47:987][273]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.31.47:987][273]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.31.47:987][273]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.31.47:987][273]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.31.47:987][273]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.31.47:987][273]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.31.47:987][273]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.31.47:987][273]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.31.47:987][273]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.31.47:987][273]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.31.47:987][273]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.31.47:987][273]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.31.47:987][273]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.31.47:987][273]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.31.47:987][273]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.31.47:988][273]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.31.47:988][273]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.31.47:988][273]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.31.47:988][273]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.31.47:988][273]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.31.47:988][273]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.31.48:008][273]LogWorld: Bringing World /Game/Andrew_and_Chris/UEDPIE_0_Main_Map1.Main_Map1 up for play (max tick rate 0) at 2022.05.04-20.31.48
+[2022.05.05-00.31.48:022][273]LogWorld: Bringing up level for play took: 0.087633
+[2022.05.05-00.31.48:109][273]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2022.05.05-00.31.48:430][273]PIE: Server logged in
+[2022.05.05-00.31.48:431][273]PIE: Play in editor total start time 3.087 seconds.
+[2022.05.05-00.31.48:863][274]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.089626 > MaxSimulationTimeStep (0.050) for 'GuideMasterAIBP_3', movement 'Walking'
+[2022.05.05-00.31.51:991][418]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockInFullscreen
+[2022.05.05-00.31.51:991][418]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2022.05.05-00.31.53:257][547]LogViewport: Display: Viewport MouseLockMode Changed, LockInFullscreen -> LockOnCapture
+[2022.05.05-00.31.53:257][547]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.05.05-00.31.56:963][789]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockInFullscreen
+[2022.05.05-00.31.56:963][789]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.05.05-00.31.59:291][ 56]LogBlueprintUserMessages: [optionsingame_C_0] Game Saved
+[2022.05.05-00.31.59:666][100]LogViewport: Display: Viewport MouseLockMode Changed, LockInFullscreen -> LockOnCapture
+[2022.05.05-00.31.59:666][100]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.05.05-00.32.25:853][907]LogHttp: Warning: 000001E9BD9B9600: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B10933123-4AD5-7BE8-A143-E7988AD6F3B0%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=3ff03076409b39bc84b1be9c2b2d6e18%7Cf123e1dfdf7448f2863b93956a92ff60%7Cb885995f-daf6-4f28-b3c7-5dc59486525c&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.05.05-00.32.25:853][907]LogHttp: Warning: 000001E9BD9B9600: request failed, libcurl error: 0 (No error)
+[2022.05.05-00.32.25:853][907]LogHttp: Warning: 000001E9BD9B9600: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1e9f2ea7eb0 [can pipeline])
+[2022.05.05-00.32.25:853][907]LogHttp: Warning: 000001E9BD9B9600: libcurl info message cache 1 (Re-using existing connection! (#3) with host datarouter.ol.epicgames.com)
+[2022.05.05-00.32.25:853][907]LogHttp: Warning: 000001E9BD9B9600: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.0.185.73) port 443 (#3))
+[2022.05.05-00.32.25:853][907]LogHttp: Warning: 000001E9BD9B9600: libcurl info message cache 3 (We are completely uploaded and fine)
+[2022.05.05-00.32.25:853][907]LogHttp: Warning: 000001E9BD9B9600: libcurl info message cache 4 (Connection died, retrying a fresh connect)
+[2022.05.05-00.32.25:853][907]LogHttp: Warning: 000001E9BD9B9600: libcurl info message cache 5 (necessary data rewind wasn't possible)
+[2022.05.05-00.32.25:853][907]LogHttp: Warning: 000001E9BD9B9600: libcurl info message cache 6 (Closing connection 3)
+[2022.05.05-00.32.25:853][907]LogHttp: Warning: 000001E9BD9B9600: libcurl info message cache 7 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2022.05.05-00.32.25:868][908]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B10933123-4AD5-7BE8-A143-E7988AD6F3B0%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=3ff03076409b39bc84b1be9c2b2d6e18%7Cf123e1dfdf7448f2863b93956a92ff60%7Cb885995f-daf6-4f28-b3c7-5dc59486525c&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.05.05-00.32.42:353][973]LogCharacterMovement: Elephant4_11 is stuck and failed to move! Velocity: X=112.98 Y=127.03 Z=0.00 Location: X=-1584.73 Y=18877.31 Z=655.21 Normal: X=-0.99 Y=-0.00 Z=0.13 PenetrationDepth:0.000 Actor:Elephant3_8 Component:CharacterMesh0 BoneName:ELEPHANT_-Head (0 other events since notify)
+[2022.05.05-00.32.43:366][ 39]LogCharacterMovement: Elephant4_11 is stuck and failed to move! Velocity: X=119.46 Y=120.95 Z=0.00 Location: X=-1741.17 Y=18941.96 Z=650.66 Normal: X=-0.98 Y=-0.14 Z=-0.13 PenetrationDepth:0.000 Actor:Elephant3_8 Component:CharacterMesh0 BoneName:ELEPHANT_ear_L_1 (23 other events since notify)
+[2022.05.05-00.32.44:381][102]LogCharacterMovement: Elephant4_11 is stuck and failed to move! Velocity: X=124.18 Y=116.10 Z=0.00 Location: X=-1902.43 Y=18982.32 Z=651.37 Normal: X=-0.98 Y=0.13 Z=-0.13 PenetrationDepth:0.000 Actor:Elephant3_8 Component:CharacterMesh0 BoneName:ELEPHANT_ear_L_1 (37 other events since notify)
+[2022.05.05-00.32.45:381][166]LogCharacterMovement: Elephant4_11 is stuck and failed to move! Velocity: X=130.14 Y=109.38 Z=0.00 Location: X=-1980.04 Y=19092.76 Z=656.41 Normal: X=-0.87 Y=0.47 Z=-0.11 PenetrationDepth:0.000 Actor:Elephant3_8 Component:CharacterMesh0 BoneName:ELEPHANt_ear_L_2 (33 other events since notify)
+[2022.05.05-00.32.45:593][178]LogCharacterMovement: Elephant3_8 is stuck and failed to move! Velocity: X=-162.71 Y=-49.23 Z=0.00 Location: X=-1554.82 Y=18864.94 Z=652.37 Normal: X=0.75 Y=-0.66 Z=-0.07 PenetrationDepth:1.855 Actor:Elephant4_11 Component:CharacterMesh0 BoneName:ELEPHANt_ear_L_2 (0 other events since notify)
+[2022.05.05-00.32.56:246][831]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.05-00.32.56:246][831]LogWorld: BeginTearingDown for /Game/Andrew_and_Chris/UEDPIE_0_Main_Map1
+[2022.05.05-00.32.56:248][831]LogWorld: UWorld::CleanupWorld for Main_Map1, bSessionEnded=true, bCleanupResources=true
+[2022.05.05-00.32.56:256][831]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.05-00.32.56:264][831]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.05-00.32.56:276][831]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.05-00.32.56:316][831]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.05-00.32.56:317][831]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.05-00.32.56:318][831]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.05-00.32.56:334][831]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2022.05.05-00.32.56:413][832]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2022.05.05-00.33.04:416][314]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2022.05.05-00.33.06:296][314]LogSlate: Window 'Save Content' being destroyed
+[2022.05.05-00.33.06:332][314]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Andrew_and_Chris/Main_Map1" FILE="../../../../../SafariSnapshot/Safari_Snapshot/Content/Andrew_and_Chris/Main_Map1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.05-00.33.06:375][314]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2022.05.05-00.33.10:308][314]LogSavePackage: Moving '../../../../../SafariSnapshot/Safari_Snapshot/Saved/Main_Map108A7E7CD43DD89FDB23759A4DF21C607.tmp' to '../../../../../SafariSnapshot/Safari_Snapshot/Content/Andrew_and_Chris/Main_Map1.umap'
+[2022.05.05-00.33.10:357][314]LogFileHelpers: Saving map 'Main_Map1' took 4.027
+[2022.05.05-00.33.12:131][314]LogAssetEditorSubsystem: Opening Asset editor for World /Game/James/Menus/STARTUP_Main_Menu_Map_JOS.STARTUP_Main_Menu_Map_JOS
+[2022.05.05-00.33.12:183][314]Cmd: MAP LOAD FILE="../../../../../SafariSnapshot/Safari_Snapshot/Content/James/Menus/STARTUP_Main_Menu_Map_JOS.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.05.05-00.33.12:183][314]LightingResults: New page: Lighting Build
+[2022.05.05-00.33.12:183][314]LoadErrors: New page: Loading map: STARTUP_Main_Menu_Map_JOS.umap
+[2022.05.05-00.33.12:272][314]LogWorld: UWorld::CleanupWorld for Main_Map1, bSessionEnded=true, bCleanupResources=true
+[2022.05.05-00.33.12:273][314]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.05-00.33.12:273][314]MapCheck: New page: Map Check
+[2022.05.05-00.33.12:273][314]LightingResults: New page: Lighting Build
+[2022.05.05-00.33.12:832][314]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.05-00.33.12:968][314]LogUObjectHash: Compacting FUObjectHashTables data took   3.68ms
+[2022.05.05-00.33.12:987][314]LogAudio: Display: Audio Device (ID: 1) registered with world 'STARTUP_Main_Menu_Map_JOS'.
+[2022.05.05-00.33.14:527][314]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.05.05-00.33.14:527][314]LogAIModule: Creating AISystem for world STARTUP_Main_Menu_Map_JOS
+[2022.05.05-00.33.14:660][314]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2022.05.05-00.33.14:672][314]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.05.05-00.33.14:672][314]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.098ms to complete.
+[2022.05.05-00.33.14:672][314]LogFileHelpers: Loading map 'STARTUP_Main_Menu_Map_JOS' took 2.541
+[2022.05.05-00.33.14:752][314]AssetCheck: New page: Asset Save: Main_Map1
+[2022.05.05-00.33.14:752][314]LogContentValidation: Display: Validating World /Game/Andrew_and_Chris/Main_Map1.Main_Map1
+[2022.05.05-00.33.20:300][716]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.05-00.33.20:337][716]LogFMOD: Default sample rate = 48000
+[2022.05.05-00.33.20:337][716]LogFMOD: System sample rate = 48000
+[2022.05.05-00.33.20:337][716]LogFMOD: Matching system sample rate 48000
+[2022.05.05-00.33.20:384][716]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.05-00.33.20:384][716]PIE: New page: PIE session: STARTUP_Main_Menu_Map_JOS (May 4, 2022, 4:33:20 PM)
+[2022.05.05-00.33.20:434][716]LogPlayLevel: Creating play world package: /Game/James/Menus/UEDPIE_0_STARTUP_Main_Menu_Map_JOS
+[2022.05.05-00.33.20:761][716]LogPlayLevel: PIE: StaticDuplicateObject took: (0.326782s)
+[2022.05.05-00.33.20:761][716]LogAIModule: Creating AISystem for world STARTUP_Main_Menu_Map_JOS
+[2022.05.05-00.33.20:762][716]LogPlayLevel: PIE: World Init took: (0.001060s)
+[2022.05.05-00.33.20:762][716]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/James/Menus/STARTUP_Main_Menu_Map_JOS.STARTUP_Main_Menu_Map_JOS to /Game/James/Menus/UEDPIE_0_STARTUP_Main_Menu_Map_JOS.STARTUP_Main_Menu_Map_JOS (0.327991s)
+[2022.05.05-00.33.20:800][716]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2022.05.05-00.33.20:803][716]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2022.05.05-00.33.20:803][716]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.05-00.33.20:803][716]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.05-00.33.20:803][716]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.05-00.33.20:803][716]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.05-00.33.20:803][716]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.05-00.33.20:803][716]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.05-00.33.20:803][716]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.05-00.33.20:803][716]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.05-00.33.20:803][716]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.05-00.33.20:803][716]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.05-00.33.20:803][716]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.05-00.33.20:803][716]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.05-00.33.20:806][716]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.05-00.33.20:806][716]LogAudioMixer: Display: 1: FrontRight
+[2022.05.05-00.33.20:811][716]LogAudioMixer: Display: Using Audio Device Speakers (2- G733 Gaming Headset)
+[2022.05.05-00.33.20:811][716]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.05-00.33.20:811][716]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.05-00.33.20:811][716]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.05-00.33.20:811][716]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.05-00.33.20:811][716]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.05-00.33.20:811][716]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.05-00.33.20:812][716]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.05-00.33.20:812][716]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.05-00.33.20:812][716]LogInit: FAudioDevice initialized.
+[2022.05.05-00.33.20:812][716]LogAudio: Display: Audio Device (ID: 5) registered with world 'STARTUP_Main_Menu_Map_JOS'.
+[2022.05.05-00.33.20:822][716]LogLoad: Game class is 'GameModeBase'
+[2022.05.05-00.33.20:835][716]LogWorld: Bringing World /Game/James/Menus/UEDPIE_0_STARTUP_Main_Menu_Map_JOS.STARTUP_Main_Menu_Map_JOS up for play (max tick rate 0) at 2022.05.04-20.33.20
+[2022.05.05-00.33.20:835][716]LogWorld: Bringing up level for play took: 0.012684
+[2022.05.05-00.33.20:915][716]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2022.05.05-00.33.20:942][716]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.05.05-00.33.20:942][716]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2022.05.05-00.33.20:942][716]PIE: Server logged in
+[2022.05.05-00.33.20:942][716]PIE: Play in editor total start time 0.635 seconds.
+[2022.05.05-00.33.24:614][135]LogBlueprintUserMessages: [optionsingame_C_0] Game Saved
+[2022.05.05-00.35.26:138][457]LogHttp: Warning: 000001EA31289600: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B10933123-4AD5-7BE8-A143-E7988AD6F3B0%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=3ff03076409b39bc84b1be9c2b2d6e18%7Cf123e1dfdf7448f2863b93956a92ff60%7Cb885995f-daf6-4f28-b3c7-5dc59486525c&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.05.05-00.35.26:138][457]LogHttp: Warning: 000001EA31289600: request failed, libcurl error: 0 (No error)
+[2022.05.05-00.35.26:138][457]LogHttp: Warning: 000001EA31289600: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1e9f2ea6860 [can pipeline])
+[2022.05.05-00.35.26:138][457]LogHttp: Warning: 000001EA31289600: libcurl info message cache 1 (Re-using existing connection! (#4) with host datarouter.ol.epicgames.com)
+[2022.05.05-00.35.26:138][457]LogHttp: Warning: 000001EA31289600: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (3.225.98.58) port 443 (#4))
+[2022.05.05-00.35.26:138][457]LogHttp: Warning: 000001EA31289600: libcurl info message cache 3 (We are completely uploaded and fine)
+[2022.05.05-00.35.26:138][457]LogHttp: Warning: 000001EA31289600: libcurl info message cache 4 (Connection died, retrying a fresh connect)
+[2022.05.05-00.35.26:138][457]LogHttp: Warning: 000001EA31289600: libcurl info message cache 5 (necessary data rewind wasn't possible)
+[2022.05.05-00.35.26:138][457]LogHttp: Warning: 000001EA31289600: libcurl info message cache 6 (Closing connection 4)
+[2022.05.05-00.35.26:138][457]LogHttp: Warning: 000001EA31289600: libcurl info message cache 7 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2022.05.05-00.35.26:474][458]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B10933123-4AD5-7BE8-A143-E7988AD6F3B0%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=3ff03076409b39bc84b1be9c2b2d6e18%7Cf123e1dfdf7448f2863b93956a92ff60%7Cb885995f-daf6-4f28-b3c7-5dc59486525c&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.05.05-00.37.24:000][524]LogBlueprintUserMessages: [optionsingame_C_0] Game Saved
+[2022.05.05-00.37.26:945][866]LogBlueprintUserMessages: [optionsingame_C_0] Game Saved
+[2022.05.05-00.37.38:318][209]LogBlueprintUserMessages: [optionsingame_C_0] Game Saved
+[2022.05.05-00.37.43:252][784]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.05.05-00.37.43:252][784]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.05.05-00.37.43:269][785]LogNet: Browse: /Game/Andrew_and_Chris/Main_Map1
+[2022.05.05-00.37.43:269][785]LogLoad: LoadMap: /Game/Andrew_and_Chris/Main_Map1
+[2022.05.05-00.37.43:269][785]LogWorld: BeginTearingDown for /Game/James/Menus/UEDPIE_0_STARTUP_Main_Menu_Map_JOS
+[2022.05.05-00.37.43:270][785]LogWorld: UWorld::CleanupWorld for STARTUP_Main_Menu_Map_JOS, bSessionEnded=true, bCleanupResources=true
+[2022.05.05-00.37.43:273][785]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.05-00.37.43:326][785]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.05-00.37.43:344][785]LogUObjectHash: Compacting FUObjectHashTables data took   4.27ms
+[2022.05.05-00.37.43:370][785]LogPlayLevel: Creating play world package: /Game/Andrew_and_Chris/UEDPIE_0_Main_Map1
+[2022.05.05-00.37.44:386][785]LogPlayLevel: PIE: StaticDuplicateObject took: (1.015608s)
+[2022.05.05-00.37.44:387][785]LogAIModule: Creating AISystem for world Main_Map1
+[2022.05.05-00.37.44:387][785]LogPlayLevel: PIE: World Init took: (0.001132s)
+[2022.05.05-00.37.44:387][785]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Andrew_and_Chris/Main_Map1.Main_Map1 to /Game/Andrew_and_Chris/UEDPIE_0_Main_Map1.Main_Map1 (1.016908s)
+[2022.05.05-00.37.44:387][785]LogAudio: Display: Audio Device (ID: 5) registered with world 'Main_Map1'.
+[2022.05.05-00.37.44:387][785]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.05.05-00.37.44:411][785]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.37.44:411][785]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.37.44:411][785]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.37.44:411][785]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.37.44:411][785]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.37.44:411][785]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.37.44:411][785]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.37.44:411][785]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.37.44:411][785]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.37.44:411][785]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.37.44:411][785]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.37.44:411][785]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.37.44:411][785]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.37.44:411][785]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.37.44:411][785]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.37.44:411][785]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.37.44:412][785]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.37.44:412][785]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.37.44:412][785]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.37.44:412][785]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.37.44:412][785]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.37.44:412][785]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.37.44:412][785]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.37.44:412][785]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.37.44:412][785]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.37.44:412][785]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.37.44:412][785]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.37.44:412][785]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.37.44:412][785]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.37.44:412][785]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.37.44:412][785]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.37.44:412][785]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.37.44:413][785]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.37.44:413][785]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.37.44:413][785]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.37.44:413][785]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.37.44:413][785]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.37.44:413][785]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.37.44:413][785]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.37.44:413][785]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.37.44:413][785]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.37.44:414][785]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.37.44:414][785]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.37.44:414][785]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.37.44:414][785]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.37.44:414][785]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.37.44:414][785]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.37.44:414][785]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.37.44:414][785]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.37.44:414][785]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.37.44:414][785]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.37.44:414][785]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.37.44:414][785]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.37.44:414][785]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.37.44:414][785]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.37.44:414][785]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.37.44:414][785]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.37.44:414][785]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.37.44:414][785]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.37.44:414][785]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.37.44:414][785]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.37.44:414][785]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.37.44:414][785]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.37.44:414][785]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.37.44:415][785]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.37.44:415][785]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.37.44:415][785]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.37.44:415][785]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.37.44:415][785]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.37.44:415][785]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.37.44:415][785]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.37.44:415][785]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.37.44:415][785]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.37.44:415][785]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.37.44:415][785]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.37.44:415][785]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.37.44:415][785]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.37.44:415][785]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.37.44:415][785]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.37.44:415][785]LogPhysics: Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2022.05.05-00.37.44:432][785]LogWorld: Bringing World /Game/Andrew_and_Chris/UEDPIE_0_Main_Map1.Main_Map1 up for play (max tick rate 0) at 2022.05.04-20.37.44
+[2022.05.05-00.37.44:447][785]LogWorld: Bringing up level for play took: 0.059626
+[2022.05.05-00.37.44:569][785]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.05.05-00.37.44:895][785]LogLoad: Took 1.626186 seconds to LoadMap(/Game/Andrew_and_Chris/UEDPIE_0_Main_Map1)
+[2022.05.05-00.37.45:241][786]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.097744 > MaxSimulationTimeStep (0.050) for 'GuideMasterAIBP_3', movement 'Walking'
+[2022.05.05-00.37.49:634][ 35]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockInFullscreen
+[2022.05.05-00.37.49:634][ 35]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.05.05-00.38.00:076][258]Cmd: sg.ShadowQuality 0
+[2022.05.05-00.38.00:276][258]LogConfig: Applying CVar settings from Section [ShadowQuality@0] File [D:/SafariSnapshot/Safari_Snapshot/Saved/Config/Windows/Scalability.ini]
+[2022.05.05-00.38.00:276][258]LogConfig: Setting CVar [[r.LightFunctionQuality:0]]
+[2022.05.05-00.38.00:276][258]LogConfig: Setting CVar [[r.ShadowQuality:0]]
+[2022.05.05-00.38.00:276][258]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:1]]
+[2022.05.05-00.38.00:276][258]LogConfig: Setting CVar [[r.Shadow.MaxResolution:512]]
+[2022.05.05-00.38.00:276][258]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:512]]
+[2022.05.05-00.38.00:276][258]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.06]]
+[2022.05.05-00.38.00:276][258]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.6]]
+[2022.05.05-00.38.00:276][258]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0]]
+[2022.05.05-00.38.00:276][258]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2022.05.05-00.38.00:276][258]LogConfig: Setting CVar [[r.DistanceFieldShadowing:0]]
+[2022.05.05-00.38.00:276][258]LogConfig: Setting CVar [[r.DistanceFieldAO:0]]
+[2022.05.05-00.38.00:276][258]LogConfig: Setting CVar [[r.VolumetricFog:0]]
+[2022.05.05-00.38.00:276][258]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:0]]
+[2022.05.05-00.38.00:276][258]LogConfig: Setting CVar [[r.CapsuleShadows:0]]
+[2022.05.05-00.38.00:276][258]sg.ShadowQuality = "0"
+[2022.05.05-00.38.00:282][259]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1474).
+[2022.05.05-00.38.02:388][499]Cmd: sg.ShadowQuality 1
+[2022.05.05-00.38.02:388][499]LogConfig: Applying CVar settings from Section [ShadowQuality@1] File [D:/SafariSnapshot/Safari_Snapshot/Saved/Config/Windows/Scalability.ini]
+[2022.05.05-00.38.02:388][499]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.05.05-00.38.02:388][499]LogConfig: Setting CVar [[r.ShadowQuality:3]]
+[2022.05.05-00.38.02:388][499]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:1]]
+[2022.05.05-00.38.02:388][499]LogConfig: Setting CVar [[r.Shadow.MaxResolution:1024]]
+[2022.05.05-00.38.02:388][499]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:1024]]
+[2022.05.05-00.38.02:388][499]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.05]]
+[2022.05.05-00.38.02:388][499]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.7]]
+[2022.05.05-00.38.02:388][499]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0.25]]
+[2022.05.05-00.38.02:388][499]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2022.05.05-00.38.02:388][499]LogConfig: Setting CVar [[r.DistanceFieldShadowing:0]]
+[2022.05.05-00.38.02:388][499]LogConfig: Setting CVar [[r.DistanceFieldAO:0]]
+[2022.05.05-00.38.02:388][499]LogConfig: Setting CVar [[r.VolumetricFog:0]]
+[2022.05.05-00.38.02:388][499]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:.5]]
+[2022.05.05-00.38.02:388][499]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.05.05-00.38.02:388][499]sg.ShadowQuality = "1"
+[2022.05.05-00.38.02:400][500]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1715).
+[2022.05.05-00.38.03:090][579]Cmd: sg.ShadowQuality 2
+[2022.05.05-00.38.03:090][579]LogConfig: Applying CVar settings from Section [ShadowQuality@2] File [D:/SafariSnapshot/Safari_Snapshot/Saved/Config/Windows/Scalability.ini]
+[2022.05.05-00.38.03:090][579]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.05.05-00.38.03:090][579]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.05.05-00.38.03:090][579]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:4]]
+[2022.05.05-00.38.03:090][579]LogConfig: Setting CVar [[r.Shadow.MaxResolution:1024]]
+[2022.05.05-00.38.03:090][579]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.05.05-00.38.03:090][579]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.04]]
+[2022.05.05-00.38.03:090][579]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.85]]
+[2022.05.05-00.38.03:090][579]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0.8]]
+[2022.05.05-00.38.03:090][579]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2022.05.05-00.38.03:090][579]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.05.05-00.38.03:090][579]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.05.05-00.38.03:090][579]LogConfig: Setting CVar [[r.AOQuality:1]]
+[2022.05.05-00.38.03:090][579]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.05.05-00.38.03:090][579]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:16]]
+[2022.05.05-00.38.03:090][579]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:64]]
+[2022.05.05-00.38.03:090][579]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.05.05-00.38.03:090][579]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.05.05-00.38.03:090][579]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.05.05-00.38.03:090][579]sg.ShadowQuality = "2"
+[2022.05.05-00.38.03:748][655]Cmd: sg.ShadowQuality 3
+[2022.05.05-00.38.03:748][655]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/SafariSnapshot/Safari_Snapshot/Saved/Config/Windows/Scalability.ini]
+[2022.05.05-00.38.03:748][655]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.05.05-00.38.03:748][655]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.05.05-00.38.03:748][655]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.05.05-00.38.03:748][655]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.05.05-00.38.03:748][655]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.05.05-00.38.03:748][655]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.05.05-00.38.03:748][655]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.05.05-00.38.03:748][655]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.05.05-00.38.03:748][655]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.05.05-00.38.03:748][655]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.05.05-00.38.03:748][655]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.05.05-00.38.03:748][655]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.05.05-00.38.03:748][655]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.05.05-00.38.03:748][655]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.05.05-00.38.03:748][655]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.05.05-00.38.03:748][655]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.05.05-00.38.03:748][655]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.05.05-00.38.03:748][655]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.05.05-00.38.03:748][655]sg.ShadowQuality = "3"
+[2022.05.05-00.38.03:753][656]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1871).
+[2022.05.05-00.38.05:282][834]Cmd: r.PostProcessAAQuality 6
+[2022.05.05-00.38.05:282][834]r.PostProcessAAQuality = "6"
+[2022.05.05-00.38.05:713][883]Cmd: r.PostProcessAAQuality 4
+[2022.05.05-00.38.05:713][883]r.PostProcessAAQuality = "4"
+[2022.05.05-00.38.06:031][920]Cmd: r.PostProcessAAQuality 2
+[2022.05.05-00.38.06:032][920]r.PostProcessAAQuality = "2"
+[2022.05.05-00.38.06:382][961]Cmd: r.PostProcessAAQuality 0
+[2022.05.05-00.38.06:382][961]r.PostProcessAAQuality = "0"
+[2022.05.05-00.38.07:087][ 42]Cmd: r.PostProcessAAQuality 0
+[2022.05.05-00.38.07:087][ 42]r.PostProcessAAQuality = "0"
+[2022.05.05-00.38.07:337][ 71]Cmd: r.PostProcessAAQuality 2
+[2022.05.05-00.38.07:337][ 71]r.PostProcessAAQuality = "2"
+[2022.05.05-00.38.07:595][101]Cmd: r.PostProcessAAQuality 4
+[2022.05.05-00.38.07:596][101]r.PostProcessAAQuality = "4"
+[2022.05.05-00.38.07:886][135]Cmd: r.PostProcessAAQuality 6
+[2022.05.05-00.38.07:886][135]r.PostProcessAAQuality = "6"
+[2022.05.05-00.38.08:344][188]Cmd: r.PostProcessAAQuality 4
+[2022.05.05-00.38.08:344][188]r.PostProcessAAQuality = "4"
+[2022.05.05-00.38.09:627][335]Cmd: r.PostProcessAAQuality 4
+[2022.05.05-00.38.09:627][335]r.PostProcessAAQuality = "4"
+[2022.05.05-00.38.10:213][402]Cmd: r.PostProcessAAQuality 0
+[2022.05.05-00.38.10:214][402]r.PostProcessAAQuality = "0"
+[2022.05.05-00.38.10:903][482]Cmd: sg.TextureQuality 0 
+[2022.05.05-00.38.10:903][482]LogConfig: Applying CVar settings from Section [TextureQuality@0] File [D:/SafariSnapshot/Safari_Snapshot/Saved/Config/Windows/Scalability.ini]
+[2022.05.05-00.38.10:903][482]LogConfig: Setting CVar [[r.Streaming.MipBias:16]]
+[2022.05.05-00.38.10:903][482]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:1]]
+[2022.05.05-00.38.10:903][482]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:1]]
+[2022.05.05-00.38.10:903][482]LogConfig: Setting CVar [[r.Streaming.Boost:0.3]]
+[2022.05.05-00.38.10:903][482]LogConfig: Setting CVar [[r.MaxAnisotropy:0]]
+[2022.05.05-00.38.10:903][482]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:4]]
+[2022.05.05-00.38.10:903][482]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2022.05.05-00.38.10:904][482]LogConfig: Setting CVar [[r.Streaming.PoolSize:400]]
+[2022.05.05-00.38.10:904][482]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.05.05-00.38.10:904][482]sg.TextureQuality = "0"
+[2022.05.05-00.38.10:965][487]LogContentStreaming: Texture pool size now 400 MB
+[2022.05.05-00.38.11:314][525]Cmd: sg.TextureQuality 1
+[2022.05.05-00.38.11:314][525]LogConfig: Applying CVar settings from Section [TextureQuality@1] File [D:/SafariSnapshot/Safari_Snapshot/Saved/Config/Windows/Scalability.ini]
+[2022.05.05-00.38.11:315][525]LogConfig: Setting CVar [[r.Streaming.MipBias:1]]
+[2022.05.05-00.38.11:315][525]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.05.05-00.38.11:315][525]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.05.05-00.38.11:315][525]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.05.05-00.38.11:315][525]LogConfig: Setting CVar [[r.MaxAnisotropy:2]]
+[2022.05.05-00.38.11:315][525]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:4]]
+[2022.05.05-00.38.11:315][525]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2022.05.05-00.38.11:315][525]LogConfig: Setting CVar [[r.Streaming.PoolSize:600]]
+[2022.05.05-00.38.11:315][525]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.05.05-00.38.11:315][525]sg.TextureQuality = "1"
+[2022.05.05-00.38.11:370][529]LogContentStreaming: Texture pool size now 600 MB
+[2022.05.05-00.38.12:185][623]Cmd: sg.TextureQuality 2 
+[2022.05.05-00.38.12:185][623]LogConfig: Applying CVar settings from Section [TextureQuality@2] File [D:/SafariSnapshot/Safari_Snapshot/Saved/Config/Windows/Scalability.ini]
+[2022.05.05-00.38.12:185][623]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.05.05-00.38.12:185][623]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.05.05-00.38.12:185][623]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.05.05-00.38.12:185][623]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.05.05-00.38.12:185][623]LogConfig: Setting CVar [[r.MaxAnisotropy:4]]
+[2022.05.05-00.38.12:185][623]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.05.05-00.38.12:185][623]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2022.05.05-00.38.12:185][623]LogConfig: Setting CVar [[r.Streaming.PoolSize:800]]
+[2022.05.05-00.38.12:185][623]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.05.05-00.38.12:185][623]sg.TextureQuality = "2"
+[2022.05.05-00.38.12:241][627]LogContentStreaming: Texture pool size now 800 MB
+[2022.05.05-00.38.12:512][659]Cmd: sg.TextureQuality 3
+[2022.05.05-00.38.12:512][659]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/SafariSnapshot/Safari_Snapshot/Saved/Config/Windows/Scalability.ini]
+[2022.05.05-00.38.12:512][659]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.05.05-00.38.12:512][659]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.05.05-00.38.12:512][659]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.05.05-00.38.12:512][659]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.05.05-00.38.12:512][659]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.05.05-00.38.12:512][659]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.05.05-00.38.12:512][659]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.05.05-00.38.12:512][659]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.05.05-00.38.12:512][659]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.05.05-00.38.12:512][659]sg.TextureQuality = "3"
+[2022.05.05-00.38.12:560][662]LogContentStreaming: Texture pool size now 1000 MB
+[2022.05.05-00.38.12:831][693]Cmd: sg.TextureQuality 2 
+[2022.05.05-00.38.12:831][693]LogConfig: Applying CVar settings from Section [TextureQuality@2] File [D:/SafariSnapshot/Safari_Snapshot/Saved/Config/Windows/Scalability.ini]
+[2022.05.05-00.38.12:831][693]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.05.05-00.38.12:831][693]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.05.05-00.38.12:831][693]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.05.05-00.38.12:831][693]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.05.05-00.38.12:831][693]LogConfig: Setting CVar [[r.MaxAnisotropy:4]]
+[2022.05.05-00.38.12:831][693]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.05.05-00.38.12:831][693]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2022.05.05-00.38.12:831][693]LogConfig: Setting CVar [[r.Streaming.PoolSize:800]]
+[2022.05.05-00.38.12:831][693]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.05.05-00.38.12:831][693]sg.TextureQuality = "2"
+[2022.05.05-00.38.12:882][697]LogContentStreaming: Texture pool size now 800 MB
+[2022.05.05-00.38.13:161][729]Cmd: sg.TextureQuality 1
+[2022.05.05-00.38.13:161][729]LogConfig: Applying CVar settings from Section [TextureQuality@1] File [D:/SafariSnapshot/Safari_Snapshot/Saved/Config/Windows/Scalability.ini]
+[2022.05.05-00.38.13:161][729]LogConfig: Setting CVar [[r.Streaming.MipBias:1]]
+[2022.05.05-00.38.13:161][729]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.05.05-00.38.13:161][729]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.05.05-00.38.13:161][729]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.05.05-00.38.13:161][729]LogConfig: Setting CVar [[r.MaxAnisotropy:2]]
+[2022.05.05-00.38.13:161][729]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:4]]
+[2022.05.05-00.38.13:161][729]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2022.05.05-00.38.13:161][729]LogConfig: Setting CVar [[r.Streaming.PoolSize:600]]
+[2022.05.05-00.38.13:161][729]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.05.05-00.38.13:161][729]sg.TextureQuality = "1"
+[2022.05.05-00.38.13:213][732]LogContentStreaming: Texture pool size now 600 MB
+[2022.05.05-00.38.13:477][763]Cmd: sg.TextureQuality 0 
+[2022.05.05-00.38.13:477][763]LogConfig: Applying CVar settings from Section [TextureQuality@0] File [D:/SafariSnapshot/Safari_Snapshot/Saved/Config/Windows/Scalability.ini]
+[2022.05.05-00.38.13:477][763]LogConfig: Setting CVar [[r.Streaming.MipBias:16]]
+[2022.05.05-00.38.13:477][763]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:1]]
+[2022.05.05-00.38.13:477][763]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:1]]
+[2022.05.05-00.38.13:477][763]LogConfig: Setting CVar [[r.Streaming.Boost:0.3]]
+[2022.05.05-00.38.13:477][763]LogConfig: Setting CVar [[r.MaxAnisotropy:0]]
+[2022.05.05-00.38.13:477][763]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:4]]
+[2022.05.05-00.38.13:477][763]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2022.05.05-00.38.13:477][763]LogConfig: Setting CVar [[r.Streaming.PoolSize:400]]
+[2022.05.05-00.38.13:477][763]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.05.05-00.38.13:477][763]sg.TextureQuality = "0"
+[2022.05.05-00.38.13:535][767]LogContentStreaming: Texture pool size now 400 MB
+[2022.05.05-00.38.13:860][805]Cmd: sg.TextureQuality 1
+[2022.05.05-00.38.13:860][805]LogConfig: Applying CVar settings from Section [TextureQuality@1] File [D:/SafariSnapshot/Safari_Snapshot/Saved/Config/Windows/Scalability.ini]
+[2022.05.05-00.38.13:860][805]LogConfig: Setting CVar [[r.Streaming.MipBias:1]]
+[2022.05.05-00.38.13:860][805]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.05.05-00.38.13:860][805]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.05.05-00.38.13:860][805]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.05.05-00.38.13:860][805]LogConfig: Setting CVar [[r.MaxAnisotropy:2]]
+[2022.05.05-00.38.13:860][805]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:4]]
+[2022.05.05-00.38.13:860][805]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2022.05.05-00.38.13:860][805]LogConfig: Setting CVar [[r.Streaming.PoolSize:600]]
+[2022.05.05-00.38.13:860][805]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.05.05-00.38.13:860][805]sg.TextureQuality = "1"
+[2022.05.05-00.38.13:914][809]LogContentStreaming: Texture pool size now 600 MB
+[2022.05.05-00.38.14:293][853]Cmd: sg.TextureQuality 2 
+[2022.05.05-00.38.14:293][853]LogConfig: Applying CVar settings from Section [TextureQuality@2] File [D:/SafariSnapshot/Safari_Snapshot/Saved/Config/Windows/Scalability.ini]
+[2022.05.05-00.38.14:293][853]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.05.05-00.38.14:293][853]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.05.05-00.38.14:293][853]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.05.05-00.38.14:293][853]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.05.05-00.38.14:293][853]LogConfig: Setting CVar [[r.MaxAnisotropy:4]]
+[2022.05.05-00.38.14:293][853]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.05.05-00.38.14:293][853]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2022.05.05-00.38.14:293][853]LogConfig: Setting CVar [[r.Streaming.PoolSize:800]]
+[2022.05.05-00.38.14:293][853]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.05.05-00.38.14:293][853]sg.TextureQuality = "2"
+[2022.05.05-00.38.14:359][858]LogContentStreaming: Texture pool size now 800 MB
+[2022.05.05-00.38.14:571][882]Cmd: sg.TextureQuality 3
+[2022.05.05-00.38.14:571][882]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/SafariSnapshot/Safari_Snapshot/Saved/Config/Windows/Scalability.ini]
+[2022.05.05-00.38.14:571][882]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.05.05-00.38.14:571][882]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.05.05-00.38.14:571][882]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.05.05-00.38.14:571][882]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.05.05-00.38.14:571][882]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.05.05-00.38.14:571][882]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.05.05-00.38.14:571][882]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.05.05-00.38.14:571][882]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.05.05-00.38.14:571][882]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.05.05-00.38.14:571][882]sg.TextureQuality = "3"
+[2022.05.05-00.38.14:629][886]LogContentStreaming: Texture pool size now 1000 MB
+[2022.05.05-00.38.24:421][ 17]LogBlueprintUserMessages: [optionsingame_C_0] Game Saved
+[2022.05.05-00.38.26:488][259]LogViewport: Display: Viewport MouseLockMode Changed, LockInFullscreen -> LockOnCapture
+[2022.05.05-00.38.26:489][259]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.05.05-00.38.59:276][475]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.05-00.38.59:276][475]LogWorld: BeginTearingDown for /Game/Andrew_and_Chris/UEDPIE_0_Main_Map1
+[2022.05.05-00.38.59:279][475]LogWorld: UWorld::CleanupWorld for Main_Map1, bSessionEnded=true, bCleanupResources=true
+[2022.05.05-00.38.59:289][475]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.05-00.38.59:299][475]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.05-00.38.59:308][475]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.05-00.38.59:345][475]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.05-00.38.59:355][475]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.05-00.38.59:356][475]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.05-00.38.59:375][475]LogUObjectHash: Compacting FUObjectHashTables data took   6.70ms
+[2022.05.05-00.38.59:429][476]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2022.05.05-00.39.25:859][502]LogHttp: Warning: 000001EA8CE90800: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B10933123-4AD5-7BE8-A143-E7988AD6F3B0%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=3ff03076409b39bc84b1be9c2b2d6e18%7Cf123e1dfdf7448f2863b93956a92ff60%7Cb885995f-daf6-4f28-b3c7-5dc59486525c&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.05.05-00.39.25:859][502]LogHttp: Warning: 000001EA8CE90800: request failed, libcurl error: 0 (No error)
+[2022.05.05-00.39.25:859][502]LogHttp: Warning: 000001EA8CE90800: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1e9f2ea6470 [can pipeline])
+[2022.05.05-00.39.25:859][502]LogHttp: Warning: 000001EA8CE90800: libcurl info message cache 1 (Re-using existing connection! (#5) with host datarouter.ol.epicgames.com)
+[2022.05.05-00.39.25:859][502]LogHttp: Warning: 000001EA8CE90800: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (44.195.153.216) port 443 (#5))
+[2022.05.05-00.39.25:859][502]LogHttp: Warning: 000001EA8CE90800: libcurl info message cache 3 (We are completely uploaded and fine)
+[2022.05.05-00.39.25:859][502]LogHttp: Warning: 000001EA8CE90800: libcurl info message cache 4 (Connection died, retrying a fresh connect)
+[2022.05.05-00.39.25:859][502]LogHttp: Warning: 000001EA8CE90800: libcurl info message cache 5 (necessary data rewind wasn't possible)
+[2022.05.05-00.39.25:859][502]LogHttp: Warning: 000001EA8CE90800: libcurl info message cache 6 (Closing connection 5)
+[2022.05.05-00.39.25:859][502]LogHttp: Warning: 000001EA8CE90800: libcurl info message cache 7 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2022.05.05-00.39.25:859][502]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B10933123-4AD5-7BE8-A143-E7988AD6F3B0%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=3ff03076409b39bc84b1be9c2b2d6e18%7Cf123e1dfdf7448f2863b93956a92ff60%7Cb885995f-daf6-4f28-b3c7-5dc59486525c&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.05.05-00.39.26:350][527]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2022.05.05-00.49.23:337][ 26]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{6d0d832f-bcfa-441a-8ed6-1af5fad836f6}.
+[2022.05.05-00.49.23:337][ 26]LogFMOD: Error: c:\jk\workspace\Build__2.2__Unreal_Win\core_api\platforms\win\src\fmod_output_wasapi.cpp(571) - GetCurrentPadding returned 0x88890004.  Device was unplugged!
+
+[2022.05.05-00.49.23:337][ 26]LogFMOD: Error: c:\jk\workspace\Build__2.2__Unreal_Win\core_api\platforms\win\src\fmod_output_wasapi.cpp(571) - GetCurrentPadding returned 0x88890004.  Device was unplugged!
+
+[2022.05.05-00.49.23:337][ 26]LogFMOD: Error: c:\jk\workspace\Build__2.2__Unreal_Win\core_api\platforms\win\src\fmod_output_wasapi.cpp(571) - GetCurrentPadding returned 0x88890004.  Device was unplugged!
+
+[2022.05.05-00.49.23:337][ 26]LogAudioMixer: Resetting audio stream to device id 
+[2022.05.05-00.49.23:340][ 26]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.05-00.49.23:340][ 26]LogAudioMixer: Display: 1: FrontRight
+[2022.05.05-00.49.23:370][ 27]LogFMOD: Error: c:\jk\workspace\Build__2.2__Unreal_Win\core_api\platforms\win\src\fmod_output_wasapi.cpp(571) - GetCurrentPadding returned 0x88890004.  Device was unplugged!
+
+[2022.05.05-00.49.23:654][ 27]LogFMOD: Error: c:\jk\workspace\Build__2.2__Unreal_Win\core_api\platforms\win\src\fmod_output_wasapi.cpp(571) - GetCurrentPadding returned 0x88890004.  Device was unplugged!
+
+[2022.05.05-00.49.23:654][ 27]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{ca090629-f67d-4f30-bdde-24ccc3c5f103}.
+[2022.05.05-00.49.23:654][ 27]LogAudioMixer: Resetting audio stream to device id 
+[2022.05.05-00.49.23:660][ 27]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.05-00.49.23:661][ 27]LogAudioMixer: Display: 1: FrontRight
+[2022.05.05-00.55.26:368][111]LogHttp: Warning: 000001EABEFEEB00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B10933123-4AD5-7BE8-A143-E7988AD6F3B0%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=3ff03076409b39bc84b1be9c2b2d6e18%7Cf123e1dfdf7448f2863b93956a92ff60%7Cb885995f-daf6-4f28-b3c7-5dc59486525c&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.05.05-00.55.26:368][111]LogHttp: Warning: 000001EABEFEEB00: request failed, libcurl error: 0 (No error)
+[2022.05.05-00.55.26:368][111]LogHttp: Warning: 000001EABEFEEB00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1e9f2ea5f60 [can pipeline])
+[2022.05.05-00.55.26:368][111]LogHttp: Warning: 000001EABEFEEB00: libcurl info message cache 1 (Re-using existing connection! (#9) with host datarouter.ol.epicgames.com)
+[2022.05.05-00.55.26:368][111]LogHttp: Warning: 000001EABEFEEB00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.6.108.7) port 443 (#9))
+[2022.05.05-00.55.26:368][111]LogHttp: Warning: 000001EABEFEEB00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2022.05.05-00.55.26:368][111]LogHttp: Warning: 000001EABEFEEB00: libcurl info message cache 4 (Connection died, retrying a fresh connect)
+[2022.05.05-00.55.26:368][111]LogHttp: Warning: 000001EABEFEEB00: libcurl info message cache 5 (necessary data rewind wasn't possible)
+[2022.05.05-00.55.26:368][111]LogHttp: Warning: 000001EABEFEEB00: libcurl info message cache 6 (Closing connection 9)
+[2022.05.05-00.55.26:368][111]LogHttp: Warning: 000001EABEFEEB00: libcurl info message cache 7 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2022.05.05-00.55.26:704][112]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B10933123-4AD5-7BE8-A143-E7988AD6F3B0%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=3ff03076409b39bc84b1be9c2b2d6e18%7Cf123e1dfdf7448f2863b93956a92ff60%7Cb885995f-daf6-4f28-b3c7-5dc59486525c&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.05.05-00.57.26:466][469]LogHttp: Warning: 000001EABEFEEB00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B10933123-4AD5-7BE8-A143-E7988AD6F3B0%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=3ff03076409b39bc84b1be9c2b2d6e18%7Cf123e1dfdf7448f2863b93956a92ff60%7Cb885995f-daf6-4f28-b3c7-5dc59486525c&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.05.05-00.57.26:466][469]LogHttp: Warning: 000001EABEFEEB00: request failed, libcurl error: 0 (No error)
+[2022.05.05-00.57.26:466][469]LogHttp: Warning: 000001EABEFEEB00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1e9f2ea4820 [can pipeline])
+[2022.05.05-00.57.26:466][469]LogHttp: Warning: 000001EABEFEEB00: libcurl info message cache 1 (Re-using existing connection! (#10) with host datarouter.ol.epicgames.com)
+[2022.05.05-00.57.26:466][469]LogHttp: Warning: 000001EABEFEEB00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (35.153.56.254) port 443 (#10))
+[2022.05.05-00.57.26:466][469]LogHttp: Warning: 000001EABEFEEB00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2022.05.05-00.57.26:466][469]LogHttp: Warning: 000001EABEFEEB00: libcurl info message cache 4 (Connection died, retrying a fresh connect)
+[2022.05.05-00.57.26:466][469]LogHttp: Warning: 000001EABEFEEB00: libcurl info message cache 5 (necessary data rewind wasn't possible)
+[2022.05.05-00.57.26:466][469]LogHttp: Warning: 000001EABEFEEB00: libcurl info message cache 6 (Closing connection 10)
+[2022.05.05-00.57.26:466][469]LogHttp: Warning: 000001EABEFEEB00: libcurl info message cache 7 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2022.05.05-00.57.26:805][470]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B10933123-4AD5-7BE8-A143-E7988AD6F3B0%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=3ff03076409b39bc84b1be9c2b2d6e18%7Cf123e1dfdf7448f2863b93956a92ff60%7Cb885995f-daf6-4f28-b3c7-5dc59486525c&AppEnvironment=datacollector-binary&UploadType=eteventstream
